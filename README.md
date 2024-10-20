@@ -81,7 +81,7 @@ I am proficient in a variety of programming languages, frameworks, and tools tha
                 <br /> SQL
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/power bi.jpeg" width="65px"/>
+                <img src="./assests/power bi.png" width="65px"/>
                 <br /> Power BI
             </td>
             <td align="center" width="140" height="112.43">
