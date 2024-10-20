@@ -101,7 +101,7 @@ Feel free to explore projects in my repositories!
 
 ## 🌐 Connect with Me
 - LinkedIn: [Muhammad Umer Khan](https://www.linkedin.com/in/muhammad-umer-khan-61729b260/)
-- GitHub: [ratul1214](https://github.com/MuhammadUmerKhan)
+- GitHub: [MuhammadUmerKhan](https://github.com/MuhammadUmerKhan)
 - Portfolio: (Coming soon!)
 
 ---
