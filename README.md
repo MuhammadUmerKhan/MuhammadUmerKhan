@@ -94,15 +94,8 @@ I am proficient in a variety of programming languages, frameworks, and tools tha
 
 ---
 
-## 🔬 My Projects
-Here are some of the exciting projects I've worked on:
-1. **Customer Churn Prediction**: Built a model to predict customer churn using classification algorithms like XGBoost and Random Forest. Deployed it using FastAPI.
-2. **House Price Prediction**: Developed a regression model to predict house prices based on key features using the Boston Housing dataset.
-3. **Natural Language Processing**: Created an NLP pipeline for text classification, sentiment analysis, and Named Entity Recognition (NER) using libraries like SpaCy and NLTK.
-4. **WhatsApp Chat Analysis**: Analyzed personal WhatsApp chat data to extract meaningful insights using Python, Pandas, and Matplotlib.
-5. **Chatbot Development**: Built a Dialogflow chatbot integrated with a FastAPI backend to manage food orders, with database support using MySQL.
 
-Feel free to explore these projects in my repositories!
+Feel free to explore projects in my repositories!
 
 ---
 
@@ -110,11 +103,6 @@ Feel free to explore these projects in my repositories!
 - LinkedIn: [Muhammad Umer Khan](https://www.linkedin.com/in/muhammad-umer-khan-61729b260/)
 - GitHub: [ratul1214](https://github.com/ratul1214)
 - Portfolio: (Coming soon!)
-
----
-
-## ⚙️ Stats and Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratul1214&show_icons=true&theme=radical)
 
 ---
 
