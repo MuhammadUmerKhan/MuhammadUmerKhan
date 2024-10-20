@@ -77,7 +77,7 @@ I am proficient in a variety of programming languages, frameworks, and tools tha
                 <br /> Pandas
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/sql.svg" width="65px"/>
+                <img src="./assests/sql.png" width="65px"/>
                 <br /> SQL
             </td>
             <td align="center" width="140" height="112.43">
