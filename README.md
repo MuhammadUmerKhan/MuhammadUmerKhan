@@ -65,7 +65,7 @@ I am proficient in a variety of programming languages, frameworks, and tools tha
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/pytorch.jpeg" width="65px"/>
+                <img src="./assests/pytorch.png" width="65px"/>
                 <br /> PyTorch
             </td>
             <td align="center" width="140" height="112.43">
