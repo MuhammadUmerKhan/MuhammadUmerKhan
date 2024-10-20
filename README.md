@@ -73,7 +73,7 @@ I am proficient in a variety of programming languages, frameworks, and tools tha
                 <br /> NumPy
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/pandas.png" width="65px"/>
+                <img src="./assests//pandas.png" width="65px"/>
                 <br /> Pandas
             </td>
             <td align="center" width="140" height="112.43">
