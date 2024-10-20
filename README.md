@@ -47,7 +47,7 @@ I am proficient in a variety of programming languages, frameworks, and tools tha
                 <br /> Jupyter Notebooks
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/tensorflow.png" width="65px"/>
+                <img src="./assests/" width="65px"/>
                 <br /> TensorFlow
             </td>
             <td align="center" width="140" height="112.43">
