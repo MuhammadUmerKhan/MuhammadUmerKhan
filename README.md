@@ -1,4 +1,3 @@
-
 <!---
 MuhammadUmerKhan/MuhammadUmerKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,6 +19,16 @@ I am currently working as a **Data Scientist** and actively looking for new oppo
 - Expanding my knowledge in **Audio Deep Learning** and **Satellite Image Segmentation**.
 - Continuously improving my skills with **Deep Learning** frameworks such as TensorFlow and PyTorch.
 
+### 🧠 Expertise
+- **Data Analysis**: I have experience in analyzing datasets for business insights and decision-making using tools like **Power BI**, **MS Excel**, and **SQL**.
+- **Machine Learning**: Skilled in building classification, regression, and clustering models using **Scikit-learn** and **XGBoost**.
+- **NLP**: Proficient in **NLP** techniques, including **Tokenization**, **POS Tagging**, **Stemming**, **Lemmatization**, **NER**, and various text representation methods (e.g., **Bag of Words**, **TF-IDF**, **Word Embeddings**).
+- **Customer Churn Analysis**: Conducted analysis for **customer churn** using **Power BI**, helping businesses make informed decisions.
+- **Chatbot Development**: Built a chatbot using **Dialogflow** and **FastAPI**, handling backend logic, intent management, and MySQL database integration.
+- **Reinforcement Learning**: Familiar with **UCB** and **Thompson Sampling** algorithms, applied to decision-making problems.
+- **Clustering Techniques**: Experience in **K-Means** clustering and **Eclat** for customer segmentation and market basket analysis.
+- **Recommendation Systems**: Worked on recommendation system projects, gaining a deep understanding of user behavior and personalized suggestions.
+  
 ### 🥅 Goals for 2024
 - Conduct research in **Cutting-Edge AI** fields, particularly in **Time Series Forecasting**, **NLP**, and **Generative AI**.
 - Contribute to open-source **AI projects**.
@@ -93,7 +102,6 @@ I am proficient in a variety of programming languages, frameworks, and tools tha
 </div>
 
 ---
-
 
 Feel free to explore projects in my repositories!
 
