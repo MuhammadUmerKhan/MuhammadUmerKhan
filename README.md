@@ -111,7 +111,7 @@ Feel free to explore projects in my repositories!
 ## 🌐 Connect with Me
 - LinkedIn: [Muhammad Umer Khan](https://www.linkedin.com/in/muhammad-umer-khan-61729b260/)
 - GitHub: [MuhammadUmerKhan](https://github.com/MuhammadUmerKhan)
-- Portfolio: [My Portfolio](https://portfolio-sigma-mocha-67.vercel.app/contact)
+- Portfolio: [My Portfolio](https://portfolio-sigma-mocha-67.vercel.app/)
 
 ---
 
