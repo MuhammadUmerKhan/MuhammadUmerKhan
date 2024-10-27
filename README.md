@@ -30,7 +30,7 @@ I am currently working as a **Data Scientist** and actively looking for new oppo
 - **Clustering Techniques**: Experience in **K-Means** clustering and **Eclat** for customer segmentation and market basket analysis.
 - **Recommendation Systems**: Worked on recommendation system projects, gaining a deep understanding of user behavior and personalized suggestions.
 
-### 🥅 Goals for 2024
+### 🥅 Goals
 - Conduct research in **Cutting-Edge AI** fields, particularly in **Time Series Forecasting**, **NLP**, and **Generative AI**.
 - Contribute to open-source **AI projects**.
 - Build impactful, real-world applications with **Machine Learning**, **Deep Learning**, and **AI** to solve business problems.
