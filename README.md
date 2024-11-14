@@ -1,66 +1,51 @@
-<!--- MuhammadUmerKhan/MuhammadUmerKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
+<!---
+MuhammadUmerKhan/MuhammadUmerKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-<h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFD&center=true&width=435&lines=Aspiring+Data+Scientist; Passionate+about+AI+%26+Machine+Learning ;Lifelong+Learner;Welcome+to+My+Profile!" alt="Typing SVG" />
-</p>
+# Hi there, I'm Muhammad Umer Khan 👋  
+
+I'm an aspiring **Data Scientist** passionate about using data to uncover hidden insights and solve real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in **Data Science**, **Machine Learning**, **Deep Learning**, and more! 
 
 ---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-Data%20Science-007ACC?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NLP-5E17EB?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Deep%20Learning-F700FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/MuhammadUmerKhan" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-Portfolio-DA1E37?style=for-the-badge&logo=githubpages&logoColor=white" />
-    </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=650&lines=Aspiring+Data+Scientist+and+Problem+Solver;Machine+Learning+and+Deep+Learning+Enthusiast;Eager+to+Explore+Natural+Language+Processing+%28NLP%29;Passionate+about+Time+Series+Analysis;Diving+into+Generative+AI+and+Reinforcement+Learning;Looking+to+Collaborate+on+Real-World+Projects!" alt="Typing animation"/>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-I'm an aspiring **Data Scientist** passionate about using data to uncover hidden insights and solve real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in **Data Science**, **Machine Learning**, **Deep Learning**, and more!
 
-### 💼 Current Focus
-💼 I am currently working as a **Data Scientist** and actively seeking new opportunities to contribute my skills. I am ready to tackle new challenges with **Machine Learning**, **Predictive Models**, and **Data-Driven Insights**!
+I'm currently focused on advancing my knowledge and hands-on skills in **Data Science**. I love to work with **Machine Learning**, **Deep Learning**, **NLP**, **Time Series Analysis**, **Generative AI**, and more, continually exploring how to transform data into impactful solutions.
+
+### 🔭 Current Focus
+- Currently working as a **Data Scientist** and actively seeking new opportunities to apply my expertise. From machine learning models to complex data insights, I'm ready to take on new challenges.
+- **Goal:** To contribute to cutting-edge **AI** and **Machine Learning** projects, focusing on applications in real-world problems.
 
 ### 🌱 What I'm Learning
-- Deep diving into advanced **Data Science** topics like **Computer Vision**, **NLP**, and **Time Series Analysis**.
-- Expanding knowledge in **Audio Deep Learning** and **Satellite Image Segmentation**.
-- Mastering **Deep Learning** frameworks like **TensorFlow** and **PyTorch**.
+- Exploring **Computer Vision**, **NLP**, **Audio Deep Learning**, and **Satellite Image Segmentation**.
+- Enhancing my understanding of **TensorFlow**, **PyTorch**, and other **Deep Learning** frameworks.
+
+### 🧠 Expertise
+- **Data Analysis**: Skilled in deriving insights and aiding decision-making using **Power BI**, **MS Excel**, and **SQL**.
+- **Machine Learning**: Proficient in regression, classification, and clustering models with tools like **Scikit-learn** and **XGBoost**.
+- **NLP**: Experienced with **Tokenization**, **POS Tagging**, **NER**, and text representation methods (e.g., **TF-IDF**, **Word Embeddings**).
+- **Transformers**: Working with **GPT**, **BERT**, and their variants for complex **NLP** tasks like text classification and language generation.
+- **Customer Churn Analysis**, **Chatbot Development**, **Recommendation Systems**, and **Clustering** techniques such as **K-Means** and **Eclat**.
 
 ### 🥅 Goals
-- Conduct research in cutting-edge **AI** fields like **Time Series Forecasting**, **NLP**, and **Generative AI**.
-- Contribute to open-source **AI projects**.
-- Collaborate with **AI communities** to foster shared learning.
+- Research areas in **Time Series Forecasting**, **NLP**, and **Generative AI**.
+- Make significant contributions to open-source **AI** projects.
+- Develop applications with **Machine Learning** and **AI** to solve business challenges.
+
+### ⚡ Fun Fact
+I’m a big coding enthusiast. You might find me participating in hackathons, learning new frameworks, or teaching others about **AI** and **Data Science**.
 
 ---
 
-## 🧠 Expertise
-I am skilled in various areas of Data Science and bring hands-on experience in:
-- **Data Analysis**: Extracting insights from data using **Power BI**, **MS Excel**, and **SQL**.
-- **Machine Learning**: Building models for classification, regression, and clustering using **Scikit-learn** and **XGBoost**.
-- **NLP**: Expertise in **Tokenization**, **POS Tagging**, **NER**, and text representation methods like **TF-IDF** and **Word Embeddings**.
-- **Transformers and Language Models**: Familiarity with **GPT**, **BERT**, and other transformers for advanced NLP tasks.
-- **Customer Churn Analysis**: Utilizing **Power BI** for churn insights to aid business decisions.
-- **Chatbot Development**: Developed a chatbot with **Dialogflow** and **FastAPI**, integrated with MySQL for robust data handling.
-- **Reinforcement Learning**: Applied **UCB** and **Thompson Sampling** algorithms for decision-making.
-- **Clustering Techniques**: Implemented **K-Means** and **Eclat** for customer segmentation and market basket analysis.
-- **Recommendation Systems**: Gained experience in building recommendation systems for personalized user experience.
+## 💻 Technologies and Tools I Use
 
----
-
-## 💻 Technologies and Tools
 <div align="center">
     <table align="center">
         <tr>
@@ -120,35 +105,15 @@ I am skilled in various areas of Data Science and bring hands-on experience in:
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmerKhan&show_icons=true&theme=radical" alt="Muhammad Umer Khan's GitHub stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmerKhan&layout=compact&theme=radical" alt="Top languages" />
-</p>
+Feel free to explore projects in my repositories!
 
 ---
 
-## 🌐 Connect with Me!
-<p align="center">
-    <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50px"/>
-    </a>
-    <a href="https://github.com/MuhammadUmerKhan" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/000000/github.png" width="50px"/>
-    </a>
-    <a href="https://www.instagram.com/umr.khan.0/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="50px"/>
-    </a>
-    <a href="https://www.facebook.com/umar.shahid.56211497" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="50px"/>
-    </a>
-</p>
+## 🌐 Connect with Me
+- LinkedIn: [Muhammad Umer Khan](https://www.linkedin.com/in/muhammad-umer-khan-61729b260/)
+- GitHub: [MuhammadUmerKhan](https://github.com/MuhammadUmerKhan)
+- Portfolio: [My Portfolio](https://portfolio-sigma-mocha-67.vercel.app/)
 
 ---
 
-<p align="center">
-    ***Thanks for visiting my profile! 😊 Feel free to reach out if you'd like to collaborate or chat about AI, Data Science, or coding.***
-</p>
+**Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or chat about anything related to AI, Data Science, or coding.** 😊
