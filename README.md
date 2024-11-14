@@ -10,7 +10,7 @@ I'm an aspiring **Data Scientist** passionate about using data to uncover hidden
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=650&lines=Aspiring+Data+Scientist+and+Problem+Solver;Machine+Learning+and+Deep+Learning+Enthusiast;Eager+to+Explore+Natural+Language+Processing+%28NLP%29;Passionate+about+Time+Series+Analysis;Diving+into+Generative+AI+and+Reinforcement+Learning;Looking+to+Collaborate+on+Real-World+Projects!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=650&lines=Aspiring+Data+Scientist+and+Problem+Solver;Natural+Language+Processing+Enthusiast;Eager+to+Explore+Machine+Learning+and+Deep+Learning+%28NLP%29;Passionate+about+Time+Series+Analysis;Diving+into+Generative+AI+and+Reinforcement+Learning;Looking+to+Collaborate+on+Real-World+Projects!" alt="Typing animation"/>
 </div>
 
 ---
