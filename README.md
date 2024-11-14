@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFD&center=true&width=435&lines=Aspiring+Data+Scientist;Passionate+about+AI+%26+Machine+Learning;Lifelong+Learner;Welcome+to+My+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFD&center=true&width=435&lines=Aspiring+Data+Scientist; Passionate+about+AI+%26+Machine+Learning ;Lifelong+Learner;Welcome+to+My+Profile!" alt="Typing SVG" />
 </p>
 
 ---
