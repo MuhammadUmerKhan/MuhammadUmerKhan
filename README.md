@@ -1,10 +1,19 @@
+<!---
+MuhammadUmerKhan/MuhammadUmerKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
+# Hi there, I'm Muhammad Umer Khan 👋  
+
+I'm an aspiring **Data Scientist** passionate about transforming data into actionable insights and solving real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in **Data Science**, **Machine Learning**, **Deep Learning**, and more!
+
+---
+<center>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+Data+Scientist+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI+and+LLMs;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
-</div>
+</div></center>
 
-<h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
-
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" alt="Focus: Data Science">
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20ML%20%7C%20DL%20%7C%20NLP-blue" alt="Skills">
@@ -116,34 +125,6 @@ I'm passionate about coding and data science! You might find me at hackathons, l
         </tr>
     </table>
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmerKhan&show_icons=true&theme=radical" alt="Muhammad Umer Khan's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmerKhan&theme=radical" alt="Muhammad Umer Khan's GitHub Streak" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/MuhammadUmerKhan/YourProjectRepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadUmerKhan&repo=YourProjectRepo&theme=radical" />
-  </a>
-  <a href="https://github.com/MuhammadUmerKhan/AnotherProjectRepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadUmerKhan&repo=AnotherProjectRepo&theme=radical" />
-  </a>
-</div>
-
-<p align="center">Feel free to explore more projects in my repositories!</p>
-
 ---
 
 ## 🌐 Connect with Me
