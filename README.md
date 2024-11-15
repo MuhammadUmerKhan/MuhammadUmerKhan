@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+Data+Scientist+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI+and+LLMs;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
 </div></center>
 
-<br>
+<hr>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" alt="Focus: Data Science">
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20ML%20%7C%20DL%20%7C%20NLP-blue" alt="Skills">
