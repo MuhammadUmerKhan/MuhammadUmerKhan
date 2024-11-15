@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
----
 
 <center>
 <div align="center">
