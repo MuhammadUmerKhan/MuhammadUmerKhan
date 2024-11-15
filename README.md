@@ -9,9 +9,9 @@ I'm an aspiring **Data Scientist** passionate about transforming data into actio
 
 ---
 
-<div align="center">
+<center><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+Data+Scientist+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
-</div>
+</div></center>
 
 ---
 
