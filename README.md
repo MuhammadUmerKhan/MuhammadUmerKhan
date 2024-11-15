@@ -3,10 +3,7 @@ MuhammadUmerKhan/MuhammadUmerKhan is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there, I'm Muhammad Umer Khan 👋  
-
-I'm an aspiring **Data Scientist** passionate about transforming data into actionable insights and solving real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in **Data Science**, **Machine Learning**, **Deep Learning**, and more!
-
+<h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
 ---
 <center>
 <div align="center">
