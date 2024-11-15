@@ -52,7 +52,7 @@ I'm enthusiastic about creating impactful solutions through data-driven insights
 - 🔄 **Transformers**: Experience with **GPT**, **BERT**, and their variants for advanced **NLP** tasks
 - 🚀 **Special Projects**: Customer churn prediction, recommendation systems, chatbot development, and clustering techniques
 
-### 🥅 2023 Goals
+### 🥅 Goals
 - 📈 Delve into **Time Series Forecasting**
 - 🎨 Expand knowledge in **Generative AI**
 - 🌐 Contribute to open-source **AI** projects
@@ -127,22 +127,8 @@ I'm passionate about coding and data science! You might find me at hackathons, l
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/">
-    <img src="https://img.shields.io/badge/-Muhammad%20Umer%20Khan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/MuhammadUmerKhan">
-    <img src="https://img.shields.io/badge/-MuhammadUmerKhan-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MuhammadUmerKhan" alt="GitHub Badge"/>
-  </a>
-  <a href="https://portfolio-sigma-mocha-67.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-sigma-mocha-67.vercel.app/" alt="Portfolio Badge"/>
-  </a>
-</p>
+<div align="center"> <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/MuhammadUmerKhan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="mailto:muhammadumerk546@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>>
 
 ---
 
 <h3 align="center">Thank you for visiting my profile! If you'd like to collaborate or discuss anything related to AI, Data Science, or coding, don't hesitate to reach out! 😊</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadUmerKhan&style=flat-square&color=blue" alt="Profile views counter"/>
-</div>
