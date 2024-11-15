@@ -5,50 +5,49 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Muhammad Umer Khan 👋  
 
-I'm an aspiring **Data Scientist** passionate about using data to uncover hidden insights and solve real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in **Data Science**, **Machine Learning**, **Deep Learning**, and more! 
+I'm an aspiring **Data Scientist** passionate about transforming data into actionable insights and solving real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in **Data Science**, **Machine Learning**, **Deep Learning**, and more!
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=650&lines=Aspiring+Data+Scientist+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Eager+to+Explore+about+Machine+Learning;Passionate+about+Time+Series+Analysis;Looking+to+Collaborate+on+Real-World+Projects!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+Data+Scientist+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI+and+Reinforcement+Learning;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
 </div>
-
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm currently focused on advancing my knowledge and hands-on skills in **Data Science**. I love to work with **Machine Learning**, **Deep Learning**, **NLP**, **Time Series Analysis**, **Generative AI**, and more, continually exploring how to transform data into impactful solutions.
+I’m a dedicated **Data Scientist** continually honing my skills and knowledge. My areas of focus include **Machine Learning**, **Deep Learning**, **NLP**, **Time Series Analysis**, and **Generative AI**. I’m enthusiastic about creating impactful solutions through data-driven insights and am actively exploring advanced techniques and new frameworks.
 
 ### 🔭 Current Focus
-- Currently working as a **Data Scientist** and actively seeking new opportunities to apply my expertise. From machine learning models to complex data insights, I'm ready to take on new challenges.
-- **Goal:** To contribute to cutting-edge **AI** and **Machine Learning** projects, focusing on applications in real-world problems.
+- Working on several data science projects while actively seeking opportunities to apply my expertise in a professional setting.
+- **Goal**: To contribute to cutting-edge **AI** and **Machine Learning** projects, focusing on practical applications that solve real-world challenges.
 
-### 🌱 What I'm Learning
-- Exploring **Computer Vision**, **NLP**, **Audio Deep Learning**, and **Satellite Image Segmentation**.
-- Enhancing my understanding of **TensorFlow**, **PyTorch**, and other **Deep Learning** frameworks.
+### 🌱 Currently Learning
+- Diving deeper into **Computer Vision**, **Audio Deep Learning**, and **Satellite Image Segmentation**.
+- Advancing my skills in frameworks like **TensorFlow** and **PyTorch** for various **Deep Learning** applications.
 
-### 🧠 Expertise
-- **Data Analysis**: Skilled in deriving insights and aiding decision-making using **Power BI**, **MS Excel**, and **SQL**.
-- **Machine Learning**: Proficient in regression, classification, and clustering models with tools like **Scikit-learn** and **XGBoost**.
-- **NLP**: Experienced with **Tokenization**, **POS Tagging**, **NER**, and text representation methods (e.g., **TF-IDF**, **Word Embeddings**).
-- **Transformers**: Working with **GPT**, **BERT**, and their variants for complex **NLP** tasks like text classification and language generation.
-- **Customer Churn Analysis**, **Chatbot Development**, **Recommendation Systems**, and **Clustering** techniques such as **K-Means** and **Eclat**.
+### 🧠 Core Expertise
+- **Data Analysis**: Deriving insights through **Power BI**, **MS Excel**, and **SQL**.
+- **Machine Learning**: Proficient in regression, classification, and clustering models using **Scikit-learn** and **XGBoost**.
+- **NLP**: Skilled in **Tokenization**, **POS Tagging**, **NER**, and text representation techniques like **TF-IDF** and **Word Embeddings**.
+- **Transformers**: Experience with **GPT**, **BERT**, and their variants for advanced **NLP** tasks, including text classification and language generation.
+- **Special Projects**: Customer churn prediction, recommendation systems, chatbot development, and clustering techniques such as **K-Means** and **Eclat**.
 
 ### 🥅 Goals
-- Research areas in **Time Series Forecasting**, **NLP**, and **Generative AI**.
-- Make significant contributions to open-source **AI** projects.
-- Develop applications with **Machine Learning** and **AI** to solve business challenges.
+- Delving into **Time Series Forecasting** and expanding knowledge in **Generative AI**.
+- Contributing to open-source **AI** projects and collaborating with fellow data enthusiasts.
+- Building end-to-end applications that address business needs using **Machine Learning** and **AI**.
 
 ### ⚡ Fun Fact
-I’m a big coding enthusiast. You might find me participating in hackathons, learning new frameworks, or teaching others about **AI** and **Data Science**.
+I’m passionate about coding and data science! You might find me at hackathons, learning new tech stacks, or sharing knowledge on **AI** and **Data Science** topics.
 
 ---
 
-## 💻 Technologies and Tools I Use
+## 💻 Technologies and Tools
 
 <div align="center">
-    <table align="center">
+    <table>
         <tr>
             <td align="center" width="140" height="112.43">
                 <img src="./assests/python.png" width="65px"/>
@@ -117,4 +116,4 @@ Feel free to explore projects in my repositories!
 
 ---
 
-**Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or chat about anything related to AI, Data Science, or coding.** 😊
+**Thank you for visiting my profile! If you'd like to collaborate or discuss anything related to AI, Data Science, or coding, don’t hesitate to reach out!** 😊
