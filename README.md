@@ -2,7 +2,6 @@
 MuhammadUmerKhan/MuhammadUmerKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
 
 <div align="center">
@@ -23,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OWQ5MzBmNDFiYjBkYzBkNDU3NjA4NTFhNjAxNmNhMDc5NjFjNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding animation" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OWQ5MzBmNDFiYjBkYzBkNDU3NjA4NTFhNjAxNmNhMDc5NjFjNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a dedicated **Data Scientist** continually honing my skills and knowledge. My areas of focus include:
 
@@ -35,32 +34,35 @@ I'm a dedicated **Data Scientist** continually honing my skills and knowledge. M
 
 I'm enthusiastic about creating impactful solutions through data-driven insights and am actively exploring advanced techniques and new frameworks.
 
+---
+
 ### 🔭 Current Focus
 - Working on several data science projects while actively seeking opportunities to apply my expertise in a professional setting.
 - **Goal**: To contribute to cutting-edge **AI** and **Machine Learning** projects, focusing on practical applications that solve real-world challenges.
+
+---
 
 ### 🌱 Currently Learning
 - 👁️ Diving deeper into **Computer Vision**
 - 🎵 Exploring **Audio Deep Learning**
 - 🛰️ Advancing in **Satellite Image Segmentation**
-- 🧰 Enhancing skills in **TensorFlow** and **PyTorch** for various **Deep Learning** applications
+- 🧰 Enhancing skills in **TensorFlow** and **PyTorch**
+
+---
 
 ### 🧠 Core Expertise
 - 📊 **Data Analysis**: Deriving insights through **Power BI**, **MS Excel**, and **SQL**
-- 🤖 **Machine Learning**: Proficient in regression, classification, and clustering models using **Scikit-learn** and **XGBoost**
-- 🗣️ **NLP**: Skilled in **Tokenization**, **POS Tagging**, **NER**, and text representation techniques like **TF-IDF** and **Word Embeddings**
-- 🔄 **Transformers**: Experience with **GPT**, **BERT**, and their variants for advanced **NLP** tasks
-- 🚀 **Special Projects**: Customer churn prediction, recommendation systems, chatbot development, and clustering techniques
+- 🤖 **Machine Learning**: Proficient in regression, classification, and clustering models
+- 🗣️ **NLP**: Skilled in techniques like **TF-IDF**, **NER**, and **Transformers**
+- 🚀 **Special Projects**: Customer churn prediction, recommendation systems, chatbot development
+
+---
 
 ### 🥅 Goals
 - 📈 Delve into **Time Series Forecasting**
 - 🎨 Expand knowledge in **Generative AI**
 - 🌐 Contribute to open-source **AI** projects
 - 🤝 Collaborate with fellow data enthusiasts
-- 🏗️ Build end-to-end applications using **Machine Learning** and **AI**
-
-### ⚡ Fun Fact
-I'm passionate about coding and data science! You might find me at hackathons, learning new tech stacks, or sharing knowledge on **AI** and **Data Science** topics.
 
 ---
 
@@ -70,54 +72,24 @@ I'm passionate about coding and data science! You might find me at hackathons, l
     <table>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/python.png" width="65px"/>
+                <img src="./assets/python.png" width="65px" alt="Python"/>
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/Jupyter.png" width="65px"/>
-                <br /> Jupyter Notebooks
+                <img src="./assets/Jupyter.png" width="65px" alt="Jupyter Notebooks"/>
+                <br /> Jupyter
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/tensorflow.png" width="65px"/>
+                <img src="./assets/tensorflow.png" width="65px" alt="TensorFlow"/>
                 <br /> TensorFlow
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/scikitlearn.png" width="65px"/>
+                <img src="./assets/scikitlearn.png" width="65px" alt="Scikit Learn"/>
                 <br /> Scikit Learn
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/fastapi.png" width="65px"/>
+                <img src="./assets/fastapi.png" width="65px" alt="FastAPI"/>
                 <br /> FastAPI
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assests/docker.png" width="65px"/>
-                <br /> Docker
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="./assests/pytorch.png" width="65px"/>
-                <br /> PyTorch
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assests/numpy.png" width="65px"/>
-                <br /> NumPy
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assests/pandas.png" width="65px"/>
-                <br /> Pandas
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assests/sql.png" width="65px"/>
-                <br /> SQL
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assests/power bi.png" width="65px"/>
-                <br /> Power BI
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assests/git.png" width="65px"/>
-                <br /> Git
             </td>
         </tr>
     </table>
@@ -127,7 +99,7 @@ I'm passionate about coding and data science! You might find me at hackathons, l
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -137,10 +109,9 @@ I'm passionate about coding and data science! You might find me at hackathons, l
   <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-</div>
-
-<p align="center"><strong>Want to explore my projects in detail?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank"><strong>Portfolio</strong></a>!</p>
+</p>
+<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">Portfolio</a>! ✨</p>
 
 ---
 
-<h3 align="center">Thank you for visiting my profile! If you'd like to collaborate or discuss anything related to AI, Data Science, or coding, don't hesitate to reach out! 😊</h3>
+<h3 align="center">Thank you for visiting my profile! If you'd like to collaborate or discuss anything related to AI or Data Science, feel free to reach out! 😊</h3>
