@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success" alt="Status: Open to Work">
 </p>
 
-<p align="center">I'm an aspiring <strong>AI Engineer</strong> passionate about transforming data into actionable insights and solving real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and more!</p>
+<p align="center">I'm an aspiring <strong>AI Engineer/Data Scientist</strong> passionate about transforming data into actionable insights and solving real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and more!</p>
 
 ---
 
