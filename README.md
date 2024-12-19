@@ -53,15 +53,15 @@ I'm enthusiastic about creating impactful solutions through data-driven insights
 - 📊 **Data Analysis**: Deriving insights through **Power BI**, **MS Excel**, and **SQL**
 - 🤖 **Machine Learning**: Proficient in regression, classification, and clustering models
 - 🗣️ **NLP**: Skilled in techniques like **TF-IDF**, **NER**, and **Transformers**
-- 🚀 **Special Projects**: Customer churn prediction, recommendation systems, chatbot development
+- - 👁️ **Computer Vision**: Experienced in tasks like image classification, object detection.
 
 ---
 
 ### 🥅 Goals
-- 📈 Delve into **Time Series Forecasting**
+- 📊 Master advanced techniques in **Predictive Analytics**
 - 🎨 Expand knowledge in **Generative AI**
-- 🌐 Contribute to open-source **AI** projects
-- 🤝 Collaborate with fellow data enthusiasts
+- 🌐 Actively contribute to open-source **AI initiatives**
+- 🤝 Engage in meaningful collaborations with the **AI community**
 
 ---
 
