@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+Data+Scientist+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI+and+LLMs;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+AI+Engineer+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI+and+LLMs;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
 </div>
 
 ---
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success" alt="Status: Open to Work">
 </p>
 
-<p align="center">I'm an aspiring <strong>Data Scientist</strong> passionate about transforming data into actionable insights and solving real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and more!</p>
+<p align="center">I'm an aspiring <strong>AI Engineer</strong> passionate about transforming data into actionable insights and solving real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and more!</p>
 
 ---
 
