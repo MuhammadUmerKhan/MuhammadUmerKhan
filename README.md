@@ -139,7 +139,7 @@ I'm enthusiastic about creating impactful solutions through data-driven insights
     <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">Portfolio</a>! ✨</p>
+<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/Projects" target="_blank">Projects</a>! ✨</p>
 
 ---
 
