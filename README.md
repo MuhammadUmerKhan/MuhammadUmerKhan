@@ -29,7 +29,7 @@ I'm a dedicated **AI Engineer/Data Scientist** continually honing my skills and 
 - 🤖 **Machine Learning**
 - 🧠 **Deep Learning**
 - 🗣️ **Natural Language Processing (NLP)**
-- 📊 **Time Series Analysis**
+- 🤖 **Computer Vision**
 - 🎨 **Generative AI**
 
 I'm enthusiastic about creating impactful solutions through data-driven insights and am actively exploring advanced techniques and new frameworks.
