@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" alt="Coding animation" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OWQ5MzBmNDFiYjBkYzBkNDU3NjA4NTFhNjAxNmNhMDc5NjFjNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a dedicated **Data Scientist** continually honing my skills and knowledge. My areas of focus include:
+I'm a dedicated **AI Engineer/Data Scientist** continually honing my skills and knowledge. My areas of focus include:
 
 - 🤖 **Machine Learning**
 - 🧠 **Deep Learning**
