@@ -44,10 +44,9 @@ I'm enthusiastic about creating impactful solutions through data-driven insights
 
 ### 🌱 Currently Learning
 - 👁️ Diving deeper into **Computer Vision**
-- 🎵 Exploring **Audio Deep Learning**
-- 🛰️ Advancing in **Satellite Image Segmentation**
-- 🧰 Enhancing skills in **TensorFlow** and **PyTorch**
-
+- 🗣️ Exploring **Natural Language Processing**
+- 🔍 Strengthening concepts in **Deep Learning**
+- 🚀 Exploring frameworks like **TensorFlow** and **PyTorch**
 ---
 
 ### 🧠 Core Expertise
