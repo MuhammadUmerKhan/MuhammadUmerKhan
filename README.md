@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" alt="Focus: Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineer-brightgreen" alt="Focus: Artificial Intelligence">
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20ML%20%7C%20DL%20%7C%20NLP-blue" alt="Skills">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success" alt="Status: Open to Work">
 </p>
