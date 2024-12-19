@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+Artificial+Intelligence+Engineer+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI+and+LLMs;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F700FF&width=750&lines=Aspiring+AI+Engineer+and+Problem+Solver;Natural+Language+Processing+%28NLP%29+Enthusiast;Exploring+Machine+Learning+and+Time+Series+Analysis;Passionate+about+Generative+AI+and+LLMs;Collaborating+on+Real-World+Projects!" alt="Typing animation"/>
 </div>
 
 ---
