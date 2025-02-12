@@ -53,7 +53,7 @@ I'm enthusiastic about creating impactful solutions through data-driven insights
 - 📊 **Data Analysis**: Deriving insights through **Power BI**, **MS Excel**, and **SQL**
 - 🤖 **Machine Learning**: Proficient in regression, classification, and clustering models
 - 🗣️ **NLP**: Skilled in techniques like **TF-IDF**, **NER**, and **Transformers**
-- - 👁️ **Computer Vision**: Experienced in tasks like image classification, object detection.
+- 👁️ **Computer Vision**: Experienced in tasks like image classification, object detection.
 
 ---
 
