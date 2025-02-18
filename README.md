@@ -35,11 +35,7 @@ Currently, I am focusing on practical applications of AI in real-world industry 
 ---
 
 ## 🚀 Current Focus
-- Implementing AI-powered **Resume & Job Matching Systems**
-- Building **Multilingual Text Translation & Summarization Systems**
-- Exploring **LangChain** for AI chatbot development
-- Enhancing my expertise in **LLMs & Prompt Engineering**
-
+- Working on several AI projects while actively seeking opportunities to apply my expertise in a professional setting.
 ---
 
 ## 🧠 Core Expertise
