@@ -46,7 +46,7 @@ Currently, I am focusing on practical applications of AI in real-world industry 
 
 - 📊 **Data Analysis & Visualization** → **SQL, Power BI, Pandas**
 - 🤖 **Machine Learning** → **Regression, Classification, Clustering**
-- 🗣️ **Natural Language Processing (NLP)** → **Transformers, SBERT, Named Entity Recognition**
+- 🗣️ **Natural Language Processing (NLP)** → **Transformers, LLMs, Named Entity Recognition**
 - 👁️ **Computer Vision** → **Object Detection, Image Classification**
 - 🏗️ **AI Deployment** → **FastAPI, Streamlit, Hugging Face Spaces**
 
