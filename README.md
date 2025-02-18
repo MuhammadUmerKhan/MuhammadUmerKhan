@@ -74,9 +74,12 @@ Currently, I am focusing on practical applications of AI in real-world industry 
   <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://drive.google.com/uc?export=download&id=1RUFe-fUjDtKaUYb8wNSE5jC4OcXIDtM6" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
 </p>
 
-<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/Projects" target="blank">Projects</a>! ✨</p>
+<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/Projects" target="_blank">Projects</a>! ✨</p>
 
 ---
 
