@@ -26,7 +26,7 @@ I am a passionate AI Engineer/Data Scientist actively exploring the latest advan
 
 - 🤖 **Machine Learning & Deep Learning**
 - 🗣️ **Natural Language Processing (NLP)**
-- 👁️ **Computer Vision & Tiny Object Detection**
+- 👁️ **Computer Vision & Object Detection**
 - 🎨 **Generative AI & Large Language Models (LLMs)**
 - 🛠️ **End-to-End AI Application Development**
 
