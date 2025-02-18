@@ -51,6 +51,12 @@ Currently, I am focusing on practical applications of AI in real-world industry 
 - 🏗️ **AI Deployment** → **FastAPI, Streamlit, Hugging Face Spaces**
 
 ---
+### 🥅 Goals
+- 📊 Master advanced techniques in **Predictive Analytics**
+- 🎨 Expand knowledge in **Generative AI**
+- 🌐 Actively contribute to open-source **AI initiatives**
+- 🤝 Engage in meaningful collaborations with the **AI community**
+---
 
 ## 🛠 Technologies & Tools
 
