@@ -74,7 +74,7 @@ Currently, I am focusing on practical applications of AI in real-world industry 
   </a>
 </p>
 
-<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/Projects" target="_blank">Projects</a>! ✨</p>
+<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/Projects" target="blank">Projects</a>! ✨</p>
 
 ---
 
