@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success" alt="Open to Work">
 </p>
 
-<p align="center">I am an **AI Engineer & Data Scientist** specializing in **Machine Learning**, **Deep Learning**, **NLP**, and **Generative AI**. Passionate about building real-world AI applications that drive **innovation and impact**. 🚀</p>
+<p align="center">I am an <b>AI Engineer & Data Scientist</b> specializing in <b>Machine Lrning</b>, <b>Deep Lening</b>, <b>NLP</b>,<b>Generative</b>Passionate about building real-world AI applications that drive <b>innovation and impact</b>. 🚀</p>
 
 ---
 
