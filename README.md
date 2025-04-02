@@ -77,7 +77,7 @@ Currently, I'm focused on **scalable, production-ready AI solutions** using stat
   </a>
 </p>
 
-<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/Projects" target="_blank">Projects</a>! ✨</p>
+<p align="center">✨ <strong>Want to explore my projects?</strong> Check out my <a href="https://portfolio-sigma-mocha-67.vercel.app/Projects" target="_blank">Portfolio</a>! ✨</p>
 
 ---
 
