@@ -69,9 +69,6 @@ Currently, I'm focused on **scalable, production-ready AI solutions** using stat
   <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MuhammadUmerKhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
