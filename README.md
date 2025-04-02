@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Muhammad Umer Khan 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=900&height=50&lines=AI+%2F+Data+Scientist+%7C+ML+%7C+NLP+%7C+Deep+Learning;Exploring+Generative/Agentic+AI+%7C+LLMs+%7C+Computer+Vision;Building+Real-World+AI+Applications;Passionate+Problem+Solver!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=900&height=50&lines=AI+%2F+Data+Scientist+%7C+ML+%7C+NLP+%7C+Deep+Learning;Exploring+Gen/Agentic+AI+%7C+LLMs+%7C+Computer+Vision;Building+Real-World+AI+Applications;Passionate+Problem+Solver!" alt="Typing animation"/>
 </div>
 
 ---
