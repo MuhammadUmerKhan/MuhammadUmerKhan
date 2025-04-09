@@ -45,15 +45,6 @@ I specialize in crafting end-to-end AI pipelines powered by Generative AI, NLP, 
 
 ---
 
-## 🚀 Current Projects
-
-- ✅ **Autonomous Legal AI Agent (LexiAgent)** – Clause extraction, risk detection & LLM reasoning  
-- ✅ **Hybrid AI-Powered Search Engine** – Semantic + vector + Google search integration  
-- ✅ **DineMate Chatbot** – End-to-end LLM food ordering system with MySQL backend  
-- ✅ **Customer Churn NLP Predictor** – AI pipeline + dashboard + NLP insights
-
----
-
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
