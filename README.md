@@ -19,8 +19,6 @@ I specialize in crafting end-to-end AI pipelines powered by Generative AI, NLP, 
 
 ---
 
-## 👨‍💻 About Me
-
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
