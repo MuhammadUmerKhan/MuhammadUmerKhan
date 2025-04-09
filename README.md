@@ -101,15 +101,4 @@ If you're looking for:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadUmerKhan&theme=algolia&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmerKhan&show_icons=true&theme=algolia&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmerKhan&layout=compact&theme=algolia&hide_border=true" />
-</p>
-
----
-
 <h3 align="center">🚀 Thank you for visiting! Let's build the future of AI — together.</h3>
