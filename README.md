@@ -26,6 +26,8 @@ I specialize in crafting end-to-end AI pipelines powered by Generative AI, NLP, 
 Hello! I'm **Muhammad Umer Khan**, an enthusiastic and impact-driven **AI Engineer** currently pursuing my **B.Sc. in Computer Science**.  
 My passion lies at the intersection of **intelligence and innovation**, where I build systems that solve real-world problems using the power of **AI, NLP, and MLOps**.
 
+
+
 I specialize in developing **end-to-end, production-grade AI solutions** — from data processing and modeling to deployment, monitoring, and automation. Whether it's building intelligent chatbots, deploying scalable machine learning pipelines, or integrating LLMs with vector databases — I'm all in. 🚀
 
 <br><br><br>
