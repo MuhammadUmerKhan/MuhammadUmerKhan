@@ -51,13 +51,6 @@ I specialize in developing **end-to-end, production-grade AI solutions** — fro
 
 ---
 
-## 🚀 My Mission
-
-To bridge the gap between **AI research and real-world applications**, and contribute meaningfully to projects that solve problems at scale.  
-I believe in building **ethical, scalable, and human-centered AI** that empowers businesses and communities.
-
----
-
 ## 🎯 Current Focus
 
 - Building **LLM Agents** with LangGraph and Qwen  
@@ -65,6 +58,13 @@ I believe in building **ethical, scalable, and human-centered AI** that empowers
 - Scaling AI systems with **CI/CD, Docker, Cloud (AWS)**  
 - Exploring **Agentic & Multi-modal AI Workflows**  
 - Contributing to open-source **AI tooling and frameworks**
+
+---
+
+## 🚀 My Mission
+
+To bridge the gap between **AI research and real-world applications**, and contribute meaningfully to projects that solve problems at scale.  
+I believe in building **ethical, scalable, and human-centered AI** that empowers businesses and communities.
 
 ---
 
