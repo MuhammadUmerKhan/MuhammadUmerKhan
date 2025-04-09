@@ -56,14 +56,6 @@ I believe in building **ethical, scalable, and human-centered AI** that empowers
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,streamlit,git,github,aws,mysql,postgresql,vscode,jupyter,linux" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Building **LLM Agents** with LangGraph and Qwen  
@@ -82,6 +74,14 @@ If you're looking for:
 - Someone who writes clean, testable, and scalable code with production in mind
 
 📬 **Let’s chat!** I'm open to freelance, full-time, or collaborative AI opportunities.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,streamlit,git,github,aws,mysql,postgresql,vscode,jupyter,linux" />
+</p>
 
 ---
 
