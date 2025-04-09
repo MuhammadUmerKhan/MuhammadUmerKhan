@@ -8,6 +8,23 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-GenAI%20%7C%20NLP%20%7C%20CV%20%7C%20MLOps-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-green?style=flat-square" />
+</p>
+
+<p align="center"><strong>🚀 I build intelligent systems that turn data into impact</strong><br/>
+I specialize in crafting end-to-end AI pipelines powered by Generative AI, NLP, and MLOps — using the latest tools and real-world production workflows.</p>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+---
+
 ## 👨‍💼 Who Am I?
 
 Hello! I'm **Muhammad Umer Khan**, an enthusiastic and impact-driven **AI Engineer** currently pursuing my **B.Sc. in Computer Science**.  
