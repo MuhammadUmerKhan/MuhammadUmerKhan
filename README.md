@@ -96,7 +96,7 @@ If you're looking for:
   <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1ej_O7VOzphHE1zER39y9xK2qDB-ZFxkA" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1RfUqf2z5HTbA_wDQJKUx4FaTXkUATiPT" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
