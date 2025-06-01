@@ -1,6 +1,6 @@
 <!-- MuhammadUmerKhan/MuhammadUmerKhan README.md -->
 
-<h1 align="center">👋 Assalamu Alaikum, I'm Muhammad Umer Khan</h1>
+<h1 align="center">👋 Salam, I'm Muhammad Umer Khan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&center=true&vCenter=true&color=00EFFF&width=1000&height=50&lines=AI+Engineer+%7C+LLMs+%7C+NLP+%7C+MLOps+%7C+Agentic+AI;Crafting+Autonomous+AI+Systems+%F0%9F%94%A5;Deploying+Real-World+AI+Products+with+Impact" />
