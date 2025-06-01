@@ -27,12 +27,7 @@
 🌐 I mix **LangGraph**, **LLMs**, **Streamlit**, **FastAPI**, and **MLOps** to solve real problems — not just run notebooks  
 
 ---
-
-## 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,git,github,linux,aws,mysql,postgresql,tensorflow,pytorch,vscode,jupyter" />
-</p>
+<br><br>
 
 **Core Tools & Frameworks**  
 - 🧠 **LLMs**: LangChain, LangGraph, Transformers, Qwen, LLaMA  
@@ -66,6 +61,16 @@ Are you looking for:
 - An AI Engineer who gets things into production?  
 - Someone who can connect LLMs, APIs, automation & real-world data?  
 - A fast-learner and clean coder ready for internships or team projects?
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,git,github,linux,aws,mysql,postgresql,tensorflow,pytorch,vscode,jupyter" />
+</p>
+
+---
 
 📫 **Reach out — let’s build together!**
 
