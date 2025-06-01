@@ -40,16 +40,6 @@ Hi! I'm **Muhammad Umer Khan**, a passionate **AI Engineer** with a knack for bu
 
 ---
 
-## 💡 What I'm Working On
-
-- ✨ **LexiAgent**: LLM-powered legal document agent (LangGraph + tools + Streamlit)
-- 🩺 **Medical Report AI Assistant**: OCR, LLM-based analysis, recommendation engine
-- 🔁 **MLOps for Churn + NLP**: Scalable ML pipeline + LLM review-based insights
-- 🔧 **Agentic Workflow Systems**: Combining LLMs, RAG, tools & search (Autonomous AI)
-- 📉 **Stock Alert System**: Alpha Vantage + Make.com + Telegram integration
-
----
-
 ## 🧠 Areas of Expertise
 
 | 🌟 Category         | 🔧 Skills & Tools                                                                 |
