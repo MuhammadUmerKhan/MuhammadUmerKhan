@@ -3,19 +3,19 @@
 <h1 align="center">👋 Salam, I'm Muhammad Umer Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&center=true&vCenter=true&color=00EFFF&width=1000&height=50&lines=AI+Engineer+%7C+LLMs+%7C+NLP+%7C+MLOps+%7C+Agentic+AI;Crafting+Autonomous+AI+Systems+%F0%9F%94%A5;Deploying+Real-World+AI+Products+with+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&center=true&vCenter=true&color=00EFFF&width=1000&height=50&lines=AI+%7C+ML+%7C+NLP+%7C+MLOps+%7C+LLMs+%7C+Data+Science;Crafting+Real-World+AI+Solutions+that+Scale+%F0%9F%94%A5;From+Prototypes+to+Production+Deployments" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domains-LLMs%20%7C%20NLP%20%7C%20MLOps%20%7C%20Automation-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Practitioner-AI%2C%20ML%2C%20NLP%2C%20LLMs%2C%20MLOps-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20NLP%20%7C%20Data%20Scientist-0abde3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Hybrid%20%7C%20Collabs-success?style=flat-square" />
 </p>
 
-<p align="center"><strong>🧠 I build intelligent, production-grade systems using LLMs, MLOps, NLP & Autonomous Agents.</strong><br/>
-Turning data & ideas into real-world solutions, from prototypes to deployment.</p>
+<p align="center"><strong>🔧 I engineer smart, scalable systems using LLMs, MLOps, NLP, ML & automation.</strong><br/>
+Solving real-world problems through AI-powered innovation & deployment.</p>
 
 ---
 
@@ -23,19 +23,20 @@ Turning data & ideas into real-world solutions, from prototypes to deployment.</
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi! I'm **Muhammad Umer Khan**, a passionate **AI Engineer** with a knack for building powerful, real-world AI systems. I've delivered intelligent products that merge **LLMs, MLOps, NLP, and automation** across diverse domains.
+Hi! I'm **Muhammad Umer Khan**, a multi-disciplinary **AI practitioner** who builds and ships **intelligent systems** across the AI spectrum — from ML models and NLP pipelines to MLOps workflows and LLM-based autonomous agents.
 
-🔍 My sweet spot is crafting **autonomous agents** and **LLM-powered assistants** that understand, reason, and act. I specialize in full-stack AI — from data pipelines, modeling, and LangChain/Graph workflows, to API deployment, CI/CD, and monitoring.
+💡 Whether it's solving business problems with **data science**, scaling pipelines with **MLOps**, building **intelligent assistants** with LLMs, or automating tasks with agents — I bring ideas to life using end-to-end AI engineering.
 
 ---
 
-## 🚀 Highlights & Strengths
+## 🚀 Core Strengths
 
-- ⚙️ **Production-Ready AI**: End-to-end ML pipelines, model serving, real-time APIs
-- 🧠 **LLM Engineering**: Agents, RAG, LangGraph, context-aware workflows (Qwen, LLaMA)
-- 🤖 **NLP Mastery**: Chatbots, document parsing, summarization, clause extraction
-- 🧪 **MLOps & Deployment**: CI/CD, FastAPI, Docker, Streamlit, model versioning
-- 📈 **Automation + AI**: Make.com, Telegram bots, Google Sheets, API integrations
+- ⚙️ **End-to-End AI Systems**: Modeling, pipelines, APIs, CI/CD, deployment
+- 🧠 **LLM Engineering**: Contextual assistants, agents, LangGraph workflows
+- 🤖 **NLP Applications**: Text classification, chatbots, extractive QA, summarization
+- 📊 **Data Science & EDA**: SQL, pandas, feature engineering, insights extraction
+- 🧪 **MLOps Expertise**: Docker, FastAPI, Streamlit, GitHub Actions, monitoring
+- 🔁 **AI-Powered Automation**: Make.com, bots, Google Sheets APIs, RPA tools
 
 ---
 
@@ -44,29 +45,29 @@ Hi! I'm **Muhammad Umer Khan**, a passionate **AI Engineer** with a knack for bu
 | 🌟 Category         | 🔧 Skills & Tools                                                                 |
 |---------------------|----------------------------------------------------------------------------------|
 | **LLMs & Agents**   | LangChain, LangGraph, Qwen, GPT, LLaMA, RAG, Toolformer, Prompt Engineering     |
-| **NLP & ML**        | Transformers, NER, Text Classification, Summarization, Recommenders, CNNs       |
-| **MLOps**           | Docker, FastAPI, Streamlit, Model Registry, GitHub Actions, Monitoring           |
-| **Data Science**    | SQL, Pandas, EDA, Feature Engineering, Power BI                                  |
-| **Automation**      | Make.com, Telegram Bots, Google Sheets APIs                                      |
-| **Deployment**      | HuggingFace, Vercel, Netlify, Cloudflare, AWS                                    |
+| **NLP & ML**        | Transformers, NER, Summarization, Recommenders, Classification, CNNs            |
+| **MLOps**           | Docker, FastAPI, Streamlit, CI/CD, Model Registry, Monitoring                   |
+| **Data Science**    | SQL, Pandas, EDA, Power BI, Feature Engineering, Analytics                      |
+| **Automation**      | Make.com, Telegram Bots, Google Sheets API, Task Scheduling                     |
+| **Deployment**      | HuggingFace, Vercel, Netlify, Cloudflare, AWS                                   |
 
 ---
 
 ## 🌍 My Mission
 
-> To bridge the gap between advanced **AI research** and impactful **real-world products**, while promoting **ethical, scalable, and intelligent systems** — accessible to everyone.
+> To bridge the gap between **cutting-edge AI research** and **impactful, accessible applications**, while building **ethical, scalable, and intelligent systems** for real-world use.
 
 ---
 
 ## 💬 Let's Collaborate
 
-Are you looking for someone who:
+Looking for someone who:
 
-✅ Builds LLM-powered tools & assistants?  
-✅ Thinks in workflows, not just models?  
-✅ Writes clean, production-level code with a user focus?  
+✅ Engineers full AI/ML pipelines from scratch?  
+✅ Builds production-ready LLM tools and chat agents?  
+✅ Delivers clean code, reproducibility, and user-focused deployment?
 
-📬 Reach out — I'm open to **freelance, internships, part-time or full-time roles** where I can make meaningful contributions.
+📫 Let’s talk! I'm open to **freelance, internships, part-time or full-time opportunities** in AI/ML/NLP/Data.
 
 ---
 
