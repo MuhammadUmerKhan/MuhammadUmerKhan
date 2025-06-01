@@ -51,7 +51,7 @@ Hi! I'm **Muhammad Umer Khan**, a multi-disciplinary **AI practitioner** who bui
 | **MLOps**           | Docker, FastAPI, Streamlit, CI/CD, Model Registry, Monitoring                   |
 | **Data Science**    | SQL, Pandas, EDA, Power BI, Feature Engineering, Analytics                      |
 | **Automation**      | Make.com, Telegram Bots, Google Sheets API, Task Scheduling                     |
-| **Deployment**      | HuggingFace, Vercel, Netlify, Cloudflare, AWS                                   |
+| **Deployment**      | HuggingFace, Vercel, Streamlit                                                  |
 
 ---
 
