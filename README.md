@@ -81,7 +81,7 @@ Looking for someone who:
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20Qwen%20%7C%20LLaMA4-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Tools-LangChain%20%7C%20LangGraph%20%7C%20Make.com-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deployment-HuggingFace%20%7C%20Vercel%20%7C%20Cloudflare-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deployment-HuggingFace%20%7C%20Vercel%20%7C%20Streamlit-lightgrey?style=flat-square" />
 </p>
 
 ---
