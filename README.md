@@ -27,6 +27,8 @@ Hi! I'm **Muhammad Umer Khan**, a multi-disciplinary **AI practitioner** who bui
 
 💡 Whether it's solving business problems with **data science**, scaling pipelines with **MLOps**, building **intelligent assistants** with LLMs, or automating tasks with agents — I bring ideas to life using end-to-end AI engineering.
 
+<br><br><br>
+
 ---
 
 ## 🚀 Core Strengths
