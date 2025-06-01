@@ -36,7 +36,6 @@ Hi! I'm **Muhammad Umer Khan**, a passionate **AI Engineer** with a knack for bu
 - 🤖 **NLP Mastery**: Chatbots, document parsing, summarization, clause extraction
 - 🧪 **MLOps & Deployment**: CI/CD, FastAPI, Docker, Streamlit, model versioning
 - 📈 **Automation + AI**: Make.com, Telegram bots, Google Sheets, API integrations
-- 🏥 **Domain Projects**: Legal AI Agents, Medical Assistants, Resume Parsers, Recommenders
 
 ---
 
