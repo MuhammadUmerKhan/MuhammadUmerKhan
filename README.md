@@ -23,7 +23,7 @@ Turning data & ideas into real-world solutions, from prototypes to deployment.</
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi! I'm **Muhammad Umer Khan**, a passionate **AI Engineer** with a knack for building powerful, real-world AI systems. Currently pursuing a **B.Sc. in Computer Science**, I've delivered intelligent products that merge **LLMs, MLOps, NLP, and automation** across diverse domains.
+Hi! I'm **Muhammad Umer Khan**, a passionate **AI Engineer** with a knack for building powerful, real-world AI systems. I've delivered intelligent products that merge **LLMs, MLOps, NLP, and automation** across diverse domains.
 
 🔍 My sweet spot is crafting **autonomous agents** and **LLM-powered assistants** that understand, reason, and act. I specialize in full-stack AI — from data pipelines, modeling, and LangChain/Graph workflows, to API deployment, CI/CD, and monitoring.
 
