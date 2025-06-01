@@ -1,80 +1,51 @@
-<!-- MuhammadUmerKhan/MuhammadUmerKhan README.md -->
+  <!-- MuhammadUmerKhan/MuhammadUmerKhan README.md -->
 
-<h1 align="center">👋 Salam! I'm Muhammad Umer Khan</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Umer Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&center=true&vCenter=true&color=00EFFF&width=1000&lines=AI+Engineer+%7C+LLMs+%7C+RAG+%7C+LangGraph+%7C+MLOps+%7C+NLP;Building+Smart+Agents+for+Real-World+Impact;From+Idea+to+Intelligence+-+End-to-End+AI+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&color=00EFFF&width=1000&height=50&lines=AI+Engineer+%7C+LLMs+%7C+RAG+%7C+LangGraph+%7C+MLOps+%7C+NLP;Building+Production-Grade+AI+Solutions+with+Impact" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Passionate%20Builder-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-%F0%9F%A7%A0%20LangGraph%20%7C%20RAG%20%7C%20Autonomous%20Agents-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20MLOps%20%7C%20Automation-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Freelance%20%7C%20Full--time-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-LLMs%20%7C%20LangGraph%20%7C%20NLP%20%7C%20MLOps-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20To-Full--Time%20%7C%20Freelance%20%7C%20Internships-success?style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🔍 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+🚀 I’m an AI Engineer focused on designing and deploying real-world, production-grade systems using modern LLM, MLOps, and NLP workflows.
 
-🎓 B.Sc. Computer Science student & self-taught AI Engineer  
-🛠️ I design, build, and deploy end-to-end **LLM-powered systems**, **agent workflows**, and **real-time ML pipelines**  
-💡 My goal? Building **autonomous AI agents** that are actually useful, scalable & production-ready  
-🌐 I mix **LangGraph**, **LLMs**, **Streamlit**, **FastAPI**, and **MLOps** to solve real problems — not just run notebooks  
-
-
-<br><br><br>
-
----
-
-**Core Tools & Frameworks**  
-- 🧠 **LLMs**: LangChain, LangGraph, Transformers, Qwen, LLaMA  
-- ⚙️ **RAG & Vector DBs**: FAISS, Hybrid Search, Context Optimization  
-- 🚀 **MLOps**: Model Registry, CI/CD, Monitoring, Streamlit Cloud, Hugging Face  
-- 📊 **SQL + Data**: Analytics, Feature Engineering, Power BI  
+**Key Highlights:**
+- 🧠 **Specialized in Generative & Agentic AI** — LangGraph, RAG, autonomous agents  
+- ⚙️ **End-to-End Systems Builder** — from data pipelines to CI/CD, monitoring & deployment  
+- 🤖 **LLM & NLP Expert** — chatbots, PDF Q&A, resume matchers, clause extractors, hybrid search  
+- 🔧 **Automation & Tool Integration** — Make.com, FastAPI, Streamlit, Hugging Face, Docker  
+- 📦 **Deployment-Ready Code** — scalable, tested, modular & cloud-integrated  
+- 🧰 **Real-world Portfolio** — built 15+ projects across legal, healthcare, customer support & more  
 
 ---
 
-## 🧠 Expertise Snapshot
+## 🛠️ Core Skill Set
 
-- 💬 **Conversational AI**: LLM agents, custom toolchains, chatbots  
-- 📄 **Legal/Medical AI**: Clause extraction, risk detection, summaries  
-- 🔁 **Automation & Pipelines**: Make.com, multi-stage LangGraph workflows  
-- 🧾 **Real Projects**: Resume matchers, report generators, recommender systems, PDF Q&A
-
----
-
-## 🚀 Latest Focus
-
-- 🧩 Building **multi-tool LangGraph agents**  
-- 🧠 Creating **domain-specific AI copilots**  
-- 📦 Packaging AI systems with **robust CI/CD**  
-- 💹 Exploring **halal AI + crypto integrations**
+- **AI & ML**: Transformers, CNNs, Classification, Forecasting, Recommenders  
+- **LLMs**: LangGraph, LangChain, Qwen, LLaMA, Context-aware Agents  
+- **MLOps**: Model Registry, Streamlit Cloud, CI/CD, Monitoring, Docker, Hugging Face  
+- **NLP**: RAG Pipelines, Summarization, Extraction, Entity Recognition  
+- **Data & Tools**: SQL, Pandas, NumPy, Power BI, Make.com, FAISS, Hybrid Search
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🚀 Current Focus Areas
 
-Are you looking for:
-- An AI Engineer who gets things into production?  
-- Someone who can connect LLMs, APIs, automation & real-world data?  
-- A fast-learner and clean coder ready for internships or team projects?
-
----
-
-## 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,git,github,linux,aws,mysql,postgresql,tensorflow,pytorch,vscode,jupyter" />
-</p>
-
----
-
-📫 **Reach out — let’s build together!**
+- Building multi-tool **LangGraph agents** for enterprise tasks  
+- Developing domain-specific **LLM copilots**  
+- Automating pipelines with **Make.com** + API integrations  
+- Contributing to **open-source LLM and MLOps tooling**
 
 ---
 
@@ -94,4 +65,4 @@ Are you looking for:
 
 ---
 
-<h3 align="center">💡 Let's shape the future of AI — one agent at a time.</h3>
+<h3 align="center">🤝 Let's build intelligent, impactful AI — together.</h3>
