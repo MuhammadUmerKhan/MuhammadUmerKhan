@@ -95,7 +95,7 @@ Looking for someone who:
   <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1ELLn0pdpSsVX2dZAeeStvpsXI1QHl4ej" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1jt98qKprDEpxP7lhEX23ICyDl1wJ0iSB" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
