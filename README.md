@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-ML%2C%20LLMs%2C%20NLP%2C%20MLOps-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-0abde3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Hybrid%20%7C%20Collabs-success?style=flat-square" />
 </p>
 
 <p align="center"><strong>🔧 I engineer smart, scalable systems using LLMs, MLOps, NLP, ML, and cloud automation.</strong><br/>
