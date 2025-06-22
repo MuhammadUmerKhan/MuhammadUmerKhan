@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-ML%2C%20LLMs%2C%20NLP%2C%20MLOps-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20Streamlit%20Cloud-0abde3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Internships%20%7C%20Part-Time%20Roles-success?style=flat-square" />
 </p>
 
 <p align="center"><strong>🔧 I engineer smart, scalable systems using LLMs, MLOps, NLP, ML, and cloud automation.</strong><br/>
@@ -26,7 +25,7 @@ Deploying real-world AI that creates real impact.</p>
 Hi! I'm **Muhammad Umer Khan**, an AI practitioner passionate about transforming ideas into intelligent systems.  
 I specialize in building **real-world, end-to-end AI pipelines** — from model training and MLOps automation to LLM-powered reasoning and cloud deployment.
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 
@@ -35,7 +34,7 @@ I specialize in building **real-world, end-to-end AI pipelines** — from model 
 - ⚙️ **End-to-End AI Pipelines**: From data → model → API → deployment  
 - 🧠 **LLMs & Autonomous Agents**: LangGraph, LangChain, Qwen, GPT  
 - 🤖 **NLP & ML Systems**: Classification, QA, Summarization, Recommenders  
-- ☁️ **Cloud AI Engineering**: Azure (Pipelines, Notebooks), AWS (SageMaker, EC2, S3)  
+- ☁️ **Cloud AI Engineering**: Microsoft Azure, Amazon Web Service (AWS)
 - 🔁 **MLOps & Deployment**: MLflow, Docker, Streamlit, FastAPI, GitHub Actions  
 - 📊 **EDA & Data Science**: Pandas, SQL, Feature Engineering, Power BI  
 - 🔧 **Automation Tools**: Make.com, Telegram Bots, Google APIs, RPA Workflows
@@ -49,7 +48,7 @@ I specialize in building **real-world, end-to-end AI pipelines** — from model 
 | **LLMs & Agents**   | LangChain, LangGraph, Qwen, GPT, LLaMA, RAG, Prompt Engineering                 |
 | **ML & NLP**        | Transformers, CNNs, NER, Text Classification, Recommenders, Summarization       |
 | **MLOps & CI/CD**   | Docker, MLflow, FastAPI, Streamlit, GitHub Actions, Model Registry              |
-| **Cloud Platforms** | Azure ML (Pipelines, Notebooks), AWS (S3, EC2, SageMaker), Streamlit Cloud      |
+| **Cloud Platforms** | Microsoft Azure, Amazon Web Service (AWS), Streamlit Cloud      |
 | **Data Science**    | Pandas, SQL, Power BI, Feature Engineering, Exploratory Data Analysis (EDA)     |
 | **Automation & APIs** | Make.com, Telegram Bots, Google Sheets API, Task Scheduling                     |
 
