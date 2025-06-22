@@ -26,9 +26,7 @@ Deploying real-world AI that creates real impact.</p>
 Hi! I'm **Muhammad Umer Khan**, an AI practitioner passionate about transforming ideas into intelligent systems.  
 I specialize in building **real-world, end-to-end AI pipelines** — from model training and MLOps automation to LLM-powered reasoning and cloud deployment.
 
-💡 Whether it's customer churn prediction, document risk analysis, or semantic search — I build **solutions**, not just models.
-
-<br><br><br>
+<br><br><br><br><br><br>
 
 ---
 
