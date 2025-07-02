@@ -34,13 +34,12 @@ I specialize in building **real-world, end-to-end AI pipelines** — from model 
 
 - ⚙️ **End-to-End AI Pipelines**: From data → model → API → deployment  
 - 🧠 **LLMs & Autonomous Agents**: LangGraph, LangChain, Qwen, GPT  
+- 🔬 **Fine-Tuning LLMs**: Custom instruction tuning and domain adaptation  
 - 🤖 **NLP & ML Systems**: Classification, QA, Summarization, Recommenders  
 - ☁️ **Cloud AI Engineering**: Microsoft Azure, Amazon Web Service (AWS)
 - 🔁 **MLOps & Deployment**: MLflow, Docker, Streamlit, FastAPI, GitHub Actions  
 - 📊 **EDA & Data Science**: Pandas, SQL, Feature Engineering, Power BI  
-- 🔧 **Automation Tools**: Make.com, Telegram Bots, Google APIs, RPA Workflows  
-- 💼 **AI Project Deployment**: Hugging Face Spaces, Vercel, Streamlit Cloud  
-- 📦 **Python Packaging & Modularity**: Clean structure, scalable scripts, reusable components
+- 🔧 **Automation Tools**: Make.com, Telegram Bots, Google APIs, RPA Workflows
 
 ---
 
@@ -48,7 +47,7 @@ I specialize in building **real-world, end-to-end AI pipelines** — from model 
 
 | 🌟 Category         | 🔧 Skills & Tools                                                                 |
 |---------------------|----------------------------------------------------------------------------------|
-| **LLMs & Agents**   | LangChain, LangGraph, Qwen, GPT, LLaMA, RAG, Prompt Engineering                 |
+| **LLMs & Agents**   | LangChain, LangGraph, Qwen, GPT, LLaMA, RAG, Prompt Engineering, Fine-Tuning     |
 | **ML & NLP**        | Transformers, CNNs, NER, Text Classification, Recommenders, Summarization       |
 | **MLOps & CI/CD**   | Docker, MLflow, FastAPI, Streamlit, GitHub Actions, Model Registry              |
 | **Cloud Platforms** | Microsoft Azure, Amazon Web Service (AWS), Streamlit Cloud                      |
