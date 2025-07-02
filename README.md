@@ -38,7 +38,9 @@ I specialize in building **real-world, end-to-end AI pipelines** — from model 
 - ☁️ **Cloud AI Engineering**: Microsoft Azure, Amazon Web Service (AWS)
 - 🔁 **MLOps & Deployment**: MLflow, Docker, Streamlit, FastAPI, GitHub Actions  
 - 📊 **EDA & Data Science**: Pandas, SQL, Feature Engineering, Power BI  
-- 🔧 **Automation Tools**: Make.com, Telegram Bots, Google APIs, RPA Workflows
+- 🔧 **Automation Tools**: Make.com, Telegram Bots, Google APIs, RPA Workflows  
+- 💼 **AI Project Deployment**: Hugging Face Spaces, Vercel, Streamlit Cloud  
+- 📦 **Python Packaging & Modularity**: Clean structure, scalable scripts, reusable components
 
 ---
 
@@ -49,7 +51,7 @@ I specialize in building **real-world, end-to-end AI pipelines** — from model 
 | **LLMs & Agents**   | LangChain, LangGraph, Qwen, GPT, LLaMA, RAG, Prompt Engineering                 |
 | **ML & NLP**        | Transformers, CNNs, NER, Text Classification, Recommenders, Summarization       |
 | **MLOps & CI/CD**   | Docker, MLflow, FastAPI, Streamlit, GitHub Actions, Model Registry              |
-| **Cloud Platforms** | Microsoft Azure, Amazon Web Service (AWS), Streamlit Cloud      |
+| **Cloud Platforms** | Microsoft Azure, Amazon Web Service (AWS), Streamlit Cloud                      |
 | **Data Science**    | Pandas, SQL, Power BI, Feature Engineering, Exploratory Data Analysis (EDA)     |
 | **Automation & APIs** | Make.com, Telegram Bots, Google Sheets API, Task Scheduling                     |
 
@@ -102,5 +104,4 @@ Looking for someone who:
 </p>
 
 ---
-
 <h3 align="center">💡 Let’s build the future of AI — together!</h3>
