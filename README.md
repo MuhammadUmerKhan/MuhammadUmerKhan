@@ -44,12 +44,13 @@ My focus is on **Generative AI, agentic AI, automation, and MLOps**, with hands-
 
 ## 🚀 Core Strengths
 
-- ⚙️ End-to-End AI Pipelines → Data → Model → API → Deployment  
-- 🧠 Generative AI & Agents → LangGraph, LangChain, GPT, Qwen  
-- 🔬 NLP & ML Systems → Classification, QA, Summarization, Recommenders  
-- ☁️ Cloud AI Engineering → AWS, Azure  
-- 🔁 MLOps & Deployment → MLflow, Docker, FastAPI, GitHub Actions  
-- 🔧 Automation → Make.com, Telegram Bots, Google APIs  
+- ⚙️ **End-to-End AI Pipelines** → Data → Model → API → Deployment  
+- 🧠 **Generative & Agentic AI** → Building autonomous AI agents with LangGraph, LangChain, GPT, Qwen  
+- 🔬 **LLM Fine-Tuning** → LoRA, QLoRA, instruction-tuning, domain adaptation  
+- 🤖 **NLP & ML Systems** → Classification, Summarization, QA, Recommenders  
+- ☁️ **Cloud AI Engineering** → AWS, Azure  
+- 🔁 **MLOps & Deployment** → MLflow, Docker, FastAPI, GitHub Actions  
+- 🔧 **Automation** → Make.com, Telegram Bots, Google APIs  
 
 ---
 
