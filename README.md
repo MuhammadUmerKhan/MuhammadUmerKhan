@@ -27,6 +27,8 @@ My focus is on **Generative AI, agentic AI, automation, and MLOps**, with hands-
 
 ---
 
+<br><br><br><br><br><br><br><br>
+
 ## 💼 Experience
 
 - **AI Developer – Bright Solution (Aug 2025 – Present | Hybrid)**  
