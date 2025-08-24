@@ -25,6 +25,8 @@
 Hi! I'm **Muhammad Umer Khan**, an AI practitioner passionate about transforming ideas into intelligent systems.  
 I focus on **end-to-end AI solutions** — from model training and fine-tuning to deployment with **LLMs, agentic AI, and cloud automation**.
 
+<br><br><br><br><br><br><br><br>
+
 ---
 
 ## 🚀 Core Strengths
@@ -56,7 +58,6 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,docker,git,github,mysql,postgresql,vscode,jupyter,linux,aws,azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="50" height="50" />
 </p>
 
 <p align="center">
