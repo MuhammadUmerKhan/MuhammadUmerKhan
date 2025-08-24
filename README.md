@@ -67,7 +67,6 @@ I specialize in building **real-world, end-to-end AI pipelines** — from model 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,docker,git,github,mysql,postgresql,vscode,jupyter,linux,aws,azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="50" height="50" />
 </p>
 
 <p align="center">
