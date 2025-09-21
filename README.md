@@ -29,22 +29,11 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
 
 ---
 
-## 🚀 Core Strengths
-
-- ⚙️ **End-to-End AI Pipelines**: Data → Model → API → Deployment  
-- 🧠 **LLMs & Agentic AI**: LangChain, LangGraph, Qwen, GPT, Autonomous Agents  
-- 🔬 **LLM Fine-Tuning**: LoRA, QLoRA, PEFT, instruction-tuning, domain adaptation  
-- ☁️ **Cloud & MLOps**: Azure, AWS, Docker, MLflow, FastAPI, Streamlit  
-- 📊 **Data Science**: Pandas, SQL, Feature Engineering, Power BI  
-- 🔧 **Automation**: Vapi, Make, n8n  
-
----
-
-## 🧠 Areas of Expertise
+## 🧠 Core Strengths & Expertise
 
 | 🌟 Category         | 🔧 Skills & Tools                                                                 |
 |---------------------|----------------------------------------------------------------------------------|
-| **LLMs & Agents**   | LangChain, LangGraph, GPT, Qwen, LLaMA, RAG, Prompt Engineering, Fine-Tuning (LoRA/QLoRA) |
+| **LLMs & Agents**   | LangChain, LangGraph, GPT, Qwen, LLaMA, RAG, Prompt Engineering, Fine-Tuning (LoRA/QLoRA/PEFT), Instruction-Tuning, Domain Adaptation |
 | **GenAI & Agentic AI** | Multi-Agent Workflows, Reasoning Systems, Autonomous Agents                   |
 | **MLOps & CI/CD**   | Docker, MLflow, FastAPI, Streamlit, GitHub Actions, Model Registry              |
 | **Cloud Platforms** | Microsoft Azure, AWS, Streamlit Cloud                                           |
