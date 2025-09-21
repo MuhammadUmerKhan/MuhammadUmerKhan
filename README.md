@@ -89,7 +89,7 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
   <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1_g1C1nZRHqMRAojRo6wAt2aSJ22cG8QM" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=178sSy-gfl3x1zrzn2Sd13Sb4A6PkmKQd" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
