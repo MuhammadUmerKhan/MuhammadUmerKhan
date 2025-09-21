@@ -36,7 +36,7 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
 - 🔬 **LLM Fine-Tuning**: LoRA, QLoRA, PEFT, instruction-tuning, domain adaptation  
 - ☁️ **Cloud & MLOps**: Azure, AWS, Docker, MLflow, FastAPI, Streamlit  
 - 📊 **Data Science**: Pandas, SQL, Feature Engineering, Power BI  
-- 🔧 **Automation**: Make.com, Google APIs, Telegram Bots, RPA workflows  
+- 🔧 **Automation**: Vapi, Make, n8n  
 
 ---
 
@@ -50,7 +50,7 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
 | **Cloud Platforms** | Microsoft Azure, AWS, Streamlit Cloud                                           |
 | **ML & NLP**        | Transformers, CNNs, Classification, Summarization, Recommenders                 |
 | **Data Science**    | Pandas, SQL, Power BI, EDA, Feature Engineering                                 |
-| **Automation & APIs** | Make.com, Telegram Bots, Google Sheets API, Scheduling                          |
+| **Automation & APIs** | Make.com, Telegram Bots, Vapi, n8n                                            |
 
 ---
 
