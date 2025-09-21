@@ -29,17 +29,19 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
 
 ---
 
-## 🧠 Core Strengths & Expertise
+## 🧠 Core Expertise
 
-| 🌟 Category         | 🔧 Skills & Tools                                                                 |
-|---------------------|----------------------------------------------------------------------------------|
-| **LLMs & Agents**   | LangChain, LangGraph, GPT, Qwen, LLaMA, RAG, Prompt Engineering, Fine-Tuning (LoRA/QLoRA/PEFT), Instruction-Tuning, Domain Adaptation |
-| **GenAI & Agentic AI** | Multi-Agent Workflows, Reasoning Systems, Autonomous Agents                   |
-| **MLOps & CI/CD**   | Docker, MLflow, FastAPI, Streamlit, GitHub Actions, Model Registry              |
-| **Cloud Platforms** | Microsoft Azure, AWS, Streamlit Cloud                                           |
-| **ML & NLP**        | Transformers, CNNs, Classification, Summarization, Recommenders                 |
-| **Data Science**    | Pandas, SQL, Power BI, EDA, Feature Engineering                                 |
-| **Automation & APIs** | Make.com, Telegram Bots, Vapi, n8n                                            |
+| 🌟 Category                    | 🔧 Skills & Tools                                                                 |
+|--------------------------------|----------------------------------------------------------------------------------|
+| **Programming Languages & Tools** | Python, SQL, Git                                                               |
+| **AI & Machine Learning**     | Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Generative AI, Agentic AI, LLM Fine-Tuning, Prompt Engineering |
+| **Frameworks & Libraries**    | Scikit-Learn, TensorFlow, PyTorch, Hugging Face Transformers, LangChain, LangGraph, OpenAI API, Groq API, LangGraph Agents, LangSmith |
+| **MLOps & Deployment**        | MLflow, FastAPI, Streamlit, Docker, CI/CD Pipelines                            |
+| **Cloud Platforms**           | Microsoft Azure, Amazon Web Services (AWS)                                     |
+| **Databases & Vector Stores** | PostgreSQL, MySQL, MongoDB, FAISS, ChromaDB                                    |
+| **Data Visualization**        | Power BI, Matplotlib, Seaborn, Plotly                                          |
+| **Automation & Workflow Tools**| Vapi, Make, n8n                                                               |
+| **Languages**                 | English (Professional), Urdu (Native)                                          |
 
 ---
 
