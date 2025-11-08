@@ -77,7 +77,7 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
   <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-sigma-mocha-67.vercel.app/" target="_blank">
+  <a href="https://muhammadumerkhaninfo.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=178sSy-gfl3x1zrzn2Sd13Sb4A6PkmKQd" target="_blank">
