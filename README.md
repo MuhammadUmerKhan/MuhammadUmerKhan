@@ -80,7 +80,7 @@ I focus on **end-to-end AI solutions** — from model training and fine-tuning t
   <a href="https://muhammadumerkhaninfo.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1Cg1jlw39BPuPxVK9nXIb1Jg2qj6aOQYN" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1UcjzeOoOK14W0nUFVVq7YPvYWW1RIYbx" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
