@@ -1,90 +1,103 @@
 <!-- MuhammadUmerKhan/MuhammadUmerKhan README.md -->
 
-<h1 align="center">👋 Salam, I'm Muhammad Umer Khan</h1>
+<h1 align="center">Hi, I'm Muhammad Umer Khan 👋</h1>
+<h3 align="center">AI Engineer | LLMs, Agentic AI & Generative AI | Automation & AI Voice Agents</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&center=true&vCenter=true&color=00EFFF&width=1000&height=50&lines=AI+Engineer+%7C+LLMs+%7C+MLOps+%7C+Cloud+%7C+Automation;Building+End-to-End+AI+Solutions+that+Scale;From+Research+to+Production+Deployment" />
+  Building production-ready AI systems — autonomous agents, LLM applications, and automations — that solve real-world problems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadumerkhan-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://muhammadumerkhaninfo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:muhammadumerk546@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🤖 **AI Engineer** with 1+ year of experience building & deploying LLM-powered, agentic, and automation systems.
+- 🧠 I specialize in **Agentic AI, RAG, AI Voice Agents, and Workflow Automation**.
+- 🔭 Currently building **AuraClaw** — a from-scratch autonomous AI agent framework in pure Python (inspired by OpenClaw).
+- ⚡ I turn cutting-edge AI into products people actually use.
+- 📫 Reach me at **muhammadumerk546@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Generative & Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2E74B5?style=flat&logoColor=white)
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Automation & Voice AI**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-10B981?style=flat&logoColor=white)
+![Retell AI](https://img.shields.io/badge/Retell%20AI-5B21B6?style=flat&logoColor=white)
+
+**Databases & Vector Stores**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logoColor=white)
+
+**Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🤖 [DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering) | Agentic AI system for automated, voice-enabled food ordering | LangGraph, Whisper, LangChain |
+| ⚖️ [LexiAgent](https://github.com/MuhammadUmerKhan/LexiAgent-Autonomous-Legal-Document-Analysis) | Autonomous agent for legal document analysis & risk detection | LangGraph, RAG, LLMs |
+| 🔎 [SmartSearch](https://github.com/MuhammadUmerKhan/SmartSearch-LLM-Based-Semantic-Search-Engine) | End-to-end semantic search engine with hybrid retrieval | FAISS, RAG, FastAPI, React |
+| 🩺 [Diagnosify](https://github.com/MuhammadUmerKhan/Diagnosify-LLM-Powered-Medical-Report-Insights) | LLM-powered medical report insights (🏆 Top 10 — SMIT AI Hackathon) | RAG, OCR, RAGAS |
+| 💬 [SupportGenie](https://github.com/MuhammadUmerKhan/SupportGenie-Dual-Fine-Tuned-LLM-Customer-Support-Chatbot) | Dual fine-tuned LLM customer support chatbot | QLoRA, Mistral, LLaMA-3 |
+| 📈 [ChurnSage](https://github.com/MuhammadUmerKhan/ChurnSage-MLOps-Driven-Customer-Retention) | MLOps-driven churn prediction with LLM insights | MLflow, Scikit-Learn, NLP |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmerKhan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmerKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmerKhan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-LLMs%2C%20MLOps%2C%20NLP-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-0abde3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%7C%20Opportunities-success?style=flat-square" />
-</p>
-
-<p align="center"><strong>🔧 I build intelligent, scalable systems using LLMs, MLOps, NLP, ML, GenAI, and cloud automation.</strong></p>
-
----
-
-## 👨‍💼 About Me
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-Hi! I'm **Muhammad Umer Khan**, an AI practitioner passionate about transforming ideas into intelligent systems.  
-I focus on **end-to-end AI solutions** — from model training and fine-tuning to deployment with **LLMs, agentic AI, and cloud automation**.
-
-<br><br><br><br><br><br><br><br>
-
----
-
-## 🧠 Core Expertise
-
-| 🌟 Category                    | 🔧 Skills & Tools                                                                 |
-|--------------------------------|----------------------------------------------------------------------------------|
-| **Programming Languages & Tools** | Python, SQL, Git                                                               |
-| **AI & Machine Learning**     | Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Generative AI, Agentic AI, LLM Fine-Tuning, Prompt Engineering |
-| **Frameworks & Libraries**    | Scikit-Learn, TensorFlow, PyTorch, Hugging Face Transformers, LangChain, LangGraph, OpenAI API, Groq API, LangGraph Agents, LangSmith |
-| **MLOps & Deployment**        | MLflow, FastAPI, Streamlit, Docker, CI/CD Pipelines                            |
-| **Cloud Platforms**           | Microsoft Azure, Amazon Web Services (AWS)                                     |
-| **Databases & Vector Stores** | PostgreSQL, MySQL, MongoDB, FAISS, ChromaDB                                    |
-| **Data Visualization**        | Power BI, Matplotlib, Seaborn, Plotly                                          |
-| **Automation & Workflow Tools**| Vapi, Make, n8n                                                               |
-| **Languages**                 | English (Professional), Urdu (Native)                                          |
-
----
-
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,docker,git,github,mysql,postgresql,vscode,jupyter,linux,aws,azure" />
+  💡 <i>Open to AI / LLM / Agentic AI roles (remote, hybrid & contract) and freelance AI projects.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20Qwen%20%7C%20LLaMA-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fine--Tuning-LoRA%20%7C%20QLoRA%20%7C%20PEFT-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/GenAI-Agentic%20AI%20%7C%20Multi--Agent-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deployment-HuggingFace%20%7C%20Vercel%20%7C%20Docker-lightgrey?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadUmerKhan&label=Profile%20views&color=2E74B5&style=flat" alt="Profile views"/>
 </p>
-
----
-
-## 💬 Let's Collaborate
-
-✅ Engineering AI/ML pipelines  
-✅ Building production-ready LLM & NLP applications  
-✅ Fine-tuning models with LoRA/QLoRA  
-✅ Delivering scalable deployments  
-
-📫 Reach out! I'm open to **freelance, internships, part-time or full-time opportunities** in AI/ML/NLP/Data.
-
----
-
-## 📎 Quick Access
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-umer-khan-61729b260/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://muhammadumerkhaninfo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/uc?export=download&id=1nwSqqEfnqKYM-HZUIitF2DD2CvkFhB9P" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="center">💡 Let’s build the future of AI — together!</h3>
