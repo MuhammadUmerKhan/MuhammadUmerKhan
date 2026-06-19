@@ -1,7 +1,12 @@
 <!-- MuhammadUmerKhan/MuhammadUmerKhan README.md -->
 
 <h1 align="center">Hi, I'm Muhammad Umer Khan 👋</h1>
-<h3 align="center">AI Engineer | LLMs, Agentic AI & Generative AI | Automation & AI Voice Agents</h3>
+
+<p align="center">
+  <a href="https://github.com/MuhammadUmerKhan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E74B5&center=true&vCenter=true&width=650&lines=AI+Engineer;Agentic+AI+%26+LLM+Developer;AI+Voice+Agents+%26+Automation;I+build+AI+that+ships%2C+not+demos" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   Building production-ready AI systems — autonomous agents, LLM applications, and automations — that solve real-world problems.
@@ -10,6 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadumerkhan-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://muhammadumerkhaninfo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/uc?export=download&id=1sQ73vcfWv-1jfbVbsI9F5hQJszgXMCqd"><img src="https://img.shields.io/badge/Resume-2E74B5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
   <a href="mailto:muhammadumerk546@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -20,6 +26,7 @@
 - 🤖 **AI Engineer** with 1+ year of experience building & deploying LLM-powered, agentic, and automation systems.
 - 🧠 I specialize in **Agentic AI, RAG, AI Voice Agents, and Workflow Automation**.
 - 🔭 Currently building **AuraClaw** — a from-scratch autonomous AI agent framework in pure Python (inspired by OpenClaw).
+- 🏆 **Top 10 Finalist** — SMIT AI Hackathon (Diagnosify, medical RAG system).
 - ⚡ I turn cutting-edge AI into products people actually use.
 - 📫 Reach me at **muhammadumerk546@gmail.com**
 
@@ -70,14 +77,14 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
+| Project | What it does | Tech |
 |---|---|---|
-| 🤖 [DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering) | Agentic AI system for automated, voice-enabled food ordering | LangGraph, Whisper, LangChain |
-| ⚖️ [LexiAgent](https://github.com/MuhammadUmerKhan/LexiAgent-Autonomous-Legal-Document-Analysis) | Autonomous agent for legal document analysis & risk detection | LangGraph, RAG, LLMs |
-| 🔎 [SmartSearch](https://github.com/MuhammadUmerKhan/SmartSearch-LLM-Based-Semantic-Search-Engine) | End-to-end semantic search engine with hybrid retrieval | FAISS, RAG, FastAPI, React |
-| 🩺 [Diagnosify](https://github.com/MuhammadUmerKhan/Diagnosify-LLM-Powered-Medical-Report-Insights) | LLM-powered medical report insights (🏆 Top 10 — SMIT AI Hackathon) | RAG, OCR, RAGAS |
-| 💬 [SupportGenie](https://github.com/MuhammadUmerKhan/SupportGenie-Dual-Fine-Tuned-LLM-Customer-Support-Chatbot) | Dual fine-tuned LLM customer support chatbot | QLoRA, Mistral, LLaMA-3 |
-| 📈 [ChurnSage](https://github.com/MuhammadUmerKhan/ChurnSage-MLOps-Driven-Customer-Retention) | MLOps-driven churn prediction with LLM insights | MLflow, Scikit-Learn, NLP |
+| 🦅 **AuraClaw** · _private · in progress_ | From-scratch **autonomous AI agent framework** (inspired by OpenClaw) — LangGraph orchestration, custom tool system, multi-provider LLM gateway, and a WhatsApp channel | Python, LangGraph, LLMs |
+| ⚖️ [LexiAgent](https://github.com/MuhammadUmerKhan/LexiAgent-Autonomous-Legal-Document-Analysis) | **Autonomous legal-document agent** — classifies, summarizes & detects risks via multi-step planning | LangGraph, RAG, NLP |
+| 🍔 [DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering) | **Agentic, voice-enabled food-ordering system** — boosted ordering efficiency **+30%** | LangGraph, Whisper, LangChain |
+| 🔎 [SmartSearch](https://github.com/MuhammadUmerKhan/SmartSearch-LLM-Based-Semantic-Search-Engine) | **End-to-end semantic search engine** — RAG + hybrid retrieval, React + FastAPI | FAISS, RAG, FastAPI, React |
+| 🩺 [Diagnosify](https://github.com/MuhammadUmerKhan/Diagnosify-LLM-Powered-Medical-Report-Insights) | **LLM medical report insights** — 🏆 Top 10, SMIT AI Hackathon | RAG, OCR, RAGAS |
+| 💬 [SupportGenie](https://github.com/MuhammadUmerKhan/SupportGenie-Dual-Fine-Tuned-LLM-Customer-Support-Chatbot) | **Dual fine-tuned LLM support chatbot** — improved answer relevance **+20%** | QLoRA, Mistral, LLaMA-3 |
 
 ---
 
@@ -89,7 +96,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmerKhan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MuhammadUmerKhan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadUmerKhan&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 </p>
 
 ---
