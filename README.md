@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🤖 **AI Engineer** with 1+ year of experience building & deploying LLM-powered, agentic, and automation systems.
+- 🤖 **AI Engineer** with 2+ year of experience building & deploying LLM-powered, agentic, and automation systems.
 - 🧠 I specialize in **Agentic AI, RAG, AI Voice Agents, and Workflow Automation**.
 - 🔭 Currently building **AuraClaw** — a from-scratch autonomous AI agent framework in pure Python (inspired by OpenClaw).
 - 🏆 **Top 10 Finalist** — SMIT AI Hackathon (Diagnosify, medical RAG system).
