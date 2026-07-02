@@ -17,7 +17,6 @@
 
 ### Selected work
 - **AuraClaw** — a from-scratch autonomous agent framework in pure Python (LangGraph orchestration, a custom tool system, a multi-provider LLM gateway, and a WhatsApp channel). *private · in progress*
-- **[LLM Red-Team Lab](https://github.com/MuhammadUmerKhan/llm-redteam-lab)** — red-teaming LLMs with Garak & promptfoo; findings mapped to OWASP LLM Top 10 and MITRE ATLAS
 - **[DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering)** — agentic, voice-enabled food-ordering system (LangGraph, Whisper); improved ordering efficiency ~30%
 - **[Diagnosify](https://github.com/MuhammadUmerKhan/Diagnosify-LLM-Powered-Medical-Report-Insights)** — LLM + RAG assistant for medical reports; Top 10, SMIT AI Hackathon
 - **[SmartSearch](https://github.com/MuhammadUmerKhan/SmartSearch-LLM-Based-Semantic-Search-Engine)** — end-to-end semantic search engine (RAG, FAISS, FastAPI, React)
