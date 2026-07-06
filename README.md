@@ -2,14 +2,18 @@
 
 <!-- MuhammadUmerKhan/MuhammadUmerKhan  ·  profile README -->
 
-# Muhammad Umer Khan
+<div align="center">
 
-**AI/ML Engineer** — I build autonomous agents, LLM applications, and AI automation, and I'm increasingly focused on how to **evaluate and secure** them.
+# Hi, I'm Muhammad Umer Khan 👋
+
+**AI Engineer** building agentic systems, LLM automation, and AI voice agents — increasingly focused on how to **red-team and secure** them.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://umerr.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadumerkhan-ai/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1fCxXEBHsblAWQuvDPtS0H99klylj108C)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadumerk546@gmail.com)
+
+</div>
 
 ---
 
