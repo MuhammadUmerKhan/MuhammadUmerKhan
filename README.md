@@ -41,4 +41,6 @@
 
 ---
 
-<sub>Open to AI / LLM / Agentic-AI roles (remote & hybrid).</sub>
+<div align="center">
+<sub>Open to AI / Agentic AI / LLM Engineer roles — remote & hybrid.</sub>
+</div>
