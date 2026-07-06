@@ -6,7 +6,7 @@
 
 **AI/ML Engineer** — I build autonomous agents, LLM applications, and AI automation, and I'm increasingly focused on how to **evaluate and secure** them.
 
-[LinkedIn](https://www.linkedin.com/in/muhammadumerkhan-ai/) · [Portfolio](https://muhammadumerkhaninfo.vercel.app/) · [Resume](https://drive.google.com/uc?export=download&id=1RSLcD4DvfsdhumyOUAAtOQWRvymBwMmy) · muhammadumerk546@gmail.com
+[LinkedIn](https://www.linkedin.com/in/muhammadumerkhan-ai/) · [Portfolio](https://muhammadumerkhaninfo.vercel.app/) · [Resume](https://drive.google.com/uc?export=download&id=1fCxXEBHsblAWQuvDPtS0H99klylj108C) · muhammadumerk546@gmail.com
 
 ---
 
