@@ -23,11 +23,14 @@
 - **LLM evaluation & AI security** — red-teaming (Garak, promptfoo), OWASP LLM Top 10, MITRE ATLAS
 
 ### Selected work
-- **AuraClaw** — a from-scratch autonomous agent framework in pure Python (LangGraph orchestration, a custom tool system, a multi-provider LLM gateway, and a WhatsApp channel). *private · in progress*
-- **[DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering)** — agentic, voice-enabled food-ordering system (LangGraph, Whisper); improved ordering efficiency ~30%
-- **[Diagnosify](https://github.com/MuhammadUmerKhan/Diagnosify-LLM-Powered-Medical-Report-Insights)** — LLM + RAG assistant for medical reports; Top 10, SMIT AI Hackathon
-- **[SmartSearch](https://github.com/MuhammadUmerKhan/SmartSearch-LLM-Based-Semantic-Search-Engine)** — end-to-end semantic search engine (RAG, FAISS, FastAPI, React)
-- **[LexiAgent](https://github.com/MuhammadUmerKhan/LexiAgent-Autonomous-Legal-Document-Analysis)** — autonomous legal-document agent (multi-step planning, RAG)
+
+| Project | What it does |
+|---|---|
+| **AuraClaw** *(private · in progress)* | From-scratch autonomous agent framework — LangGraph orchestration, custom tool system, multi-provider LLM gateway, WhatsApp channel |
+| **[DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering)** | Agentic, voice-enabled food-ordering system (LangGraph, Whisper) — ~30% faster ordering, full red-team + security hardening pass |
+| **[Diagnosify](https://github.com/MuhammadUmerKhan/Diagnosify-LLM-Powered-Medical-Report-Insights)** | LLM + RAG assistant for medical report insights — Top 10, SMIT AI Hackathon |
+| **[SmartSearch](https://github.com/MuhammadUmerKhan/SmartSearch-LLM-Based-Semantic-Search-Engine)** | End-to-end semantic search engine — RAG, FAISS, FastAPI, React |
+| **[LexiAgent](https://github.com/MuhammadUmerKhan/LexiAgent-Autonomous-Legal-Document-Analysis)** | Autonomous legal-document agent — multi-step planning + RAG |
 
 ### Tech
 Python · LangChain · LangGraph · PyTorch · TensorFlow · Hugging Face · FastAPI · Docker · FAISS · ChromaDB · AWS · Azure
