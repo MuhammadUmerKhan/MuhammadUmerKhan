@@ -38,7 +38,7 @@
 | **[Diagnosify](https://github.com/MuhammadUmerKhan/Diagnosify-LLM-Powered-Medical-Report-Insights)** | LLM + RAG assistant for medical report insights — Top 10, SMIT AI Hackathon |
 | **[SmartSearch](https://github.com/MuhammadUmerKhan/SmartSearch-LLM-Based-Semantic-Search-Engine)** | End-to-end semantic search engine — RAG, FAISS, FastAPI, React |
 | **[LexiAgent](https://github.com/MuhammadUmerKhan/LexiAgent-Autonomous-Legal-Document-Analysis)** | Autonomous legal-document agent — multi-step planning + RAG |
-| **[Personal RAG Assistant](https://github.com/MuhammadUmerKhan/portfolio-web-bot)** | Agentic hybrid-RAG system (Qdrant + BM25 + knowledge graph, LangGraph ReAct routing) — [chat with it live](https://umerr.vercel.app/) |
+| **[AskUmer](https://github.com/MuhammadUmerKhan/portfolio-web-bot)** | Agentic hybrid-RAG system (Qdrant + BM25 + knowledge graph, LangGraph ReAct routing) — [chat with it live](https://umerr.vercel.app/) |
 ---
 
 <div align="center">
