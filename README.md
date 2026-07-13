@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;muhammad-umer-khan;%24+cat+role.txt;AI+Engineer+-+agentic+systems%2C+RAG+and+AI+security;%24+echo+%24STATUS;open_to_work%3Dtrue)](https://umerr.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=%24+whoami;muhammad-umer-khan;%24+cat+role.txt;AI+Engineer+-+agentic+systems%2C+RAG+and+AI+security;%24+echo+%24STATUS;open_to_work%3Dtrue)](https://umerr.vercel.app/)
 
 # Hi, I'm Muhammad Umer Khan 👋
 
@@ -224,7 +224,7 @@ network:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&background=0D1117&center=true&vCenter=true&width=650&lines=thanks+for+scrolling+this+far;lets+build+something+-+securely)](https://www.linkedin.com/in/muhammadumerkhan-ai/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=thanks+for+scrolling+this+far;lets+build+something+-+securely)](https://www.linkedin.com/in/muhammadumerkhan-ai/)
 
 <sub>Open to AI / Agentic AI / LLM Engineer roles — remote & hybrid.</sub>
 
