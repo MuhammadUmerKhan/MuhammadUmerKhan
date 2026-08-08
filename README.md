@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=%24+whoami;muhammad-umer-khan;%24+cat+role.txt;AI+Engineer+-+agentic+systems%2C+RAG+and+AI+security;%24+echo+%24STATUS;open_to_work%3Dtrue)](https://umerr.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=E2703A&center=true&vCenter=true&width=650&lines=%24+whoami;muhammad-umer-khan;%24+cat+role.txt;AI+Engineer+-+agentic+systems%2C+RAG+and+AI+security;%24+echo+%24STATUS;open_to_work%3Dtrue)](https://umerr.vercel.app/)
 
 # Hi, I'm Muhammad Umer Khan 👋
 
-**AI Engineer** building agentic systems, LLM automation, and AI voice agents — increasingly focused on how to **red-team and secure** them.
+**AI Engineer** building agentic systems, LLM automation, and AI voice agents — increasingly focused on how to **red-team and secure** them, and shipping the full-stack product (React/Next.js, Node.js, Expo) they live in.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://umerr.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadumerkhan-ai/)
@@ -20,6 +20,7 @@
 ### `$ cat about.md`
 
 - **Agentic AI & LLM systems** — multi-agent orchestration (LangChain / LangGraph), RAG, AI voice agents
+- **Full-stack delivery** — React / Next.js, Node.js, Expo (React Native), Supabase — I ship the product the AI lives in, not just the model
 - **AI automation** — n8n, Make, integrated with CRMs and third-party tools
 - **LLM evaluation & AI security** — red-teaming (Garak, PyRIT, Promptfoo), OWASP LLM Top 10, MITRE ATLAS
 
@@ -58,6 +59,20 @@
 </tr>
 
 <tr>
+<td>📦 <b>housing-society-platform</b><br><sub><code>live</code></sub></td>
+<td><img src="https://img.shields.io/badge/-live%20%C2%B7%20private-2ea44f?style=flat-square" alt="live, private"></td>
+<td><img src="https://img.shields.io/badge/React-30363d?style=flat-square"> <img src="https://img.shields.io/badge/Expo-30363d?style=flat-square"> <img src="https://img.shields.io/badge/Supabase-30363d?style=flat-square"></td>
+<td>White-label SaaS for housing-society gate security — HMAC-signed QR codes, fully offline-capable audit trail. Live in production for a paying client.<br><sub>private client repo — details on request</sub></td>
+</tr>
+
+<tr>
+<td>📦 <b>community-membership-platform</b><br><sub><code>wip</code></sub></td>
+<td><img src="https://img.shields.io/badge/-in%20progress%20%C2%B7%20private-6e7681?style=flat-square" alt="in progress, private"></td>
+<td><img src="https://img.shields.io/badge/React-30363d?style=flat-square"> <img src="https://img.shields.io/badge/Expo-30363d?style=flat-square"> <img src="https://img.shields.io/badge/Supabase-30363d?style=flat-square"></td>
+<td>Bilingual (EN/UR, RTL) mobile + admin platform for a global membership community — person-centric family-graph data model. Client-commissioned rollout targeting 5K–50K members.<br><sub>private client repo — details on request</sub></td>
+</tr>
+
+<tr>
 <td>📦 <b>diagnosify</b><br><sub><code>v1.0</code></sub></td>
 <td><img src="https://img.shields.io/badge/-top%2010-f0a020?style=flat-square" alt="top 10"></td>
 <td><img src="https://img.shields.io/badge/RAG-30363d?style=flat-square"> <img src="https://img.shields.io/badge/LLM-30363d?style=flat-square"></td>
@@ -84,10 +99,12 @@
 ### `$ which tools`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,azure,react,git&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,expo,supabase,docker,aws,azure,git&perline=6" />
 </p>
 
 <p align="center"><b>AI/ML:</b> LangChain · LangGraph · PyTorch · TensorFlow · Hugging Face · FAISS · ChromaDB · Qdrant</p>
+<p align="center"><b>Full-Stack:</b> React · Next.js · Node.js · Expo (React Native) · Supabase</p>
+<p align="center"><b>AI-assisted dev:</b> Claude Code · Antigravity · Cursor · GitHub Copilot · Windsurf</p>
 
 ### `$ ./compile_career.sh --verbose`
 
@@ -97,9 +114,10 @@
 + [OK] agentic systems — shipped (AuraClaw, AskUmer)
 + [OK] hybrid RAG pipelines — shipped (Qdrant + BM25 + FlashRank)
 + [OK] AI security hardening — shipped (Secure DineMate, OWASP/MITRE mapped)
++ [OK] full-stack SaaS — shipped (2 white-label platforms, 1 live w/ paying client)
 - [DEPRECATED] "prompt engineering" as a whole personality
 
-@@ [STATUS] open_to_work = true — AI / Agentic AI / LLM Engineer, remote & hybrid @@
+@@ [STATUS] open_to_work = true — AI / Agentic AI / LLM Engineer + Full-Stack, remote & hybrid @@
 ```
 
 ### `$ cat .gitignore`
@@ -120,7 +138,8 @@ buzzword-soup.json
 <br>
 
 ```
-* 7f3a9c1 (HEAD -> main, origin/main) feat(career): join Revera Innovations as AI Engineer
+* a91f2c4 (HEAD -> main, origin/main) feat(fullstack): ship 2 white-label SaaS platforms — React/Expo/Supabase
+* 7f3a9c1 feat(career): join Revera Innovations as AI Engineer
 * 4b8e21d feat(security): red-team + harden DineMate — OWASP/MITRE ATLAS mapped
 * 9c2f7a0 feat(portfolio): ship AskUmer — hybrid RAG + LangGraph ReAct router
 * e1d4b56 feat(agent): build AuraClaw — 21-pillar autonomous WhatsApp agent [wip]
@@ -150,6 +169,7 @@ buzzword-soup.json
 +     "hybrid RAG (dense + BM25 + FlashRank rerank)",
 +     "LLM red-teaming (Garak, PyRIT, Promptfoo)",
 +     "voice agents (Vapi, Retell AI)",
++     "full-stack delivery (React/Next.js, Node.js, Expo, Supabase)",
 + ]
 
 - mindset = "ship fast, worry about security later"
@@ -176,6 +196,7 @@ Education:  BS Computer Science
 Shell:      LangGraph ReAct
 DE:         FastAPI + Docker
 WM:         AWS / Azure
+Also:       React, Next.js, Node.js, Expo, Supabase
 Packages:   langchain, langgraph, qlora, n8n, vapi, retell-ai (247)
 Theme:      agentic-systems [dark]
 Status:     open_to_work=true
@@ -210,6 +231,11 @@ services:
     image: realtime-voice:latest
     built_with: [vapi, retell-ai]
 
+  web_platforms:
+    image: fullstack-saas:latest
+    depends_on: [supabase_backend]
+    built_with: [react, nextjs, nodejs, expo-react-native, supabase, postgresql]
+
   infra:
     image: cloud-native:latest
     built_with: [docker, aws, azure, n8n]
@@ -224,8 +250,8 @@ network:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=thanks+for+scrolling+this+far;lets+build+something+-+securely)](https://www.linkedin.com/in/muhammadumerkhan-ai/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=E2703A&center=true&vCenter=true&width=650&lines=thanks+for+scrolling+this+far;lets+build+something+-+securely)](https://www.linkedin.com/in/muhammadumerkhan-ai/)
 
-<sub>Open to AI / Agentic AI / LLM Engineer roles — remote & hybrid.</sub>
+<sub>Open to AI / Agentic AI / LLM Engineer and Full-Stack roles — remote & hybrid.</sub>
 
 </div>
