@@ -26,7 +26,7 @@ Mistral-7B and LLaMA-3-8B fine-tuned with LoRA in 4-bit on a single free-tier T4
 I build the products these run inside too — Postgres schemas, REST APIs, React admin panels,
 Expo mobile apps — including two multi-tenant platforms taken end to end, one of them live.
 
-[Portfolio](https://umerr.vercel.app) ·
+[Portfolio](https://buildwithumer.site/) ·
 [LinkedIn](https://www.linkedin.com/in/muhammadumerkhan-ai/) ·
 [Email](mailto:muhammadumerk546@gmail.com)
 
