@@ -10,7 +10,7 @@ cross-encoder reranking, across 898 chunks. Guardrails screen input before any m
 DeepEval judge suite runs
 [in CI](https://github.com/MuhammadUmerKhan/AskUmer-Hybrid-RAG-Conversational-Assistant/blob/main/.github/workflows/ci.yml)
 and fails the build on a faithfulness or answer-relevancy regression. It answers questions on
-[umerr.vercel.app](https://umerr.vercel.app).
+[buildwithumer.site](https://buildwithumer.site/).
 
 **[DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering)** —
 four LangGraph agents covering ordering, kitchen dispatch and admin, with voice through Whisper.
