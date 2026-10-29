@@ -9,8 +9,8 @@ a ReAct agent over hybrid retrieval: Qdrant dense search fused with BM25 by rank
 cross-encoder reranking, across 898 chunks. Guardrails screen input before any model call, and a
 DeepEval judge suite runs
 [in CI](https://github.com/MuhammadUmerKhan/AskUmer-Hybrid-RAG-Conversational-Assistant/blob/main/.github/workflows/ci.yml)
-and fails the build on a faithfulness or answer-relevancy regression. It answers questions on
-[buildwithumer.site](https://buildwithumer.site/).
+and fails the build on a faithfulness or answer-relevancy regression. A lighter build of it
+answers questions on [buildwithumer.site](https://buildwithumer.site/).
 
 **[DineMate](https://github.com/MuhammadUmerKhan/DineMate-Agentic-AI-for-Automated-Food-Ordering)** —
 four LangGraph agents covering ordering, kitchen dispatch and admin, with voice through Whisper.
